@@ -1,0 +1,160 @@
+{
+    "lastUpdated": "2026-01-03T20:52:31.666348Z",
+    "bubbleStatus": {
+        "percentageChange": "-1.1%",
+        "status": "HYPE IS GROWING",
+        "subStatus": "Moderate decrease",
+        "description": "Current metrics align with a period of sustained market optimism. Capital continues to flow into infrastructure, and valuations remain elevated relative to long-term historical averages.",
+        "color": "green",
+        "tracking": "S&P 500",
+        "comparedTo": "this time last week"
+    },
+    "stockPerformance": {
+        "stocks": [
+            {
+                "symbol": "NVDA",
+                "name": "NVIDIA Corporation",
+                "price": 188.85,
+                "change": 0.23999999999998067,
+                "changePercent": 0.12724669953872045,
+                "previousClose": 188.61
+            },
+            {
+                "symbol": "MSFT",
+                "name": "Microsoft Corporation",
+                "price": 472.94,
+                "change": -15.079999999999984,
+                "changePercent": -3.09003729355354,
+                "previousClose": 488.02
+            },
+            {
+                "symbol": "GOOGL",
+                "name": "Alphabet Inc.",
+                "price": 315.15,
+                "change": 1.0600000000000023,
+                "changePercent": 0.3374828870705856,
+                "previousClose": 314.09
+            },
+            {
+                "symbol": "OPENAI",
+                "name": "OpenAI",
+                "price": null,
+                "change": null,
+                "changePercent": null,
+                "previousClose": null
+            }
+        ]
+    },
+    "topMovers": {
+        "gainers": [
+            {
+                "symbol": "RBOT",
+                "name": "Vicarious Surgical Inc.",
+                "price": 2.52,
+                "change": 0.56,
+                "changePercent": 28.571428571428577,
+                "previousClose": 1.96
+            },
+            {
+                "symbol": "AVAI",
+                "name": "Avant Technologies Inc.",
+                "price": 0.41,
+                "change": 0.08799999999999997,
+                "changePercent": 27.32919254658384,
+                "previousClose": 0.322
+            },
+            {
+                "symbol": "BIDU",
+                "name": "Baidu, Inc.",
+                "price": 150.3,
+                "change": 26.940000000000012,
+                "changePercent": 21.83852140077822,
+                "previousClose": 123.36
+            }
+        ],
+        "losers": [
+            {
+                "symbol": "ARAI",
+                "name": "Arrive AI Inc.",
+                "price": 2.71,
+                "change": -0.6000000000000001,
+                "changePercent": -18.12688821752266,
+                "previousClose": 3.31
+            },
+            {
+                "symbol": "ORKT",
+                "name": "Orangekloud Technology Inc.",
+                "price": 0.721,
+                "change": -0.126,
+                "changePercent": -14.87603305785124,
+                "previousClose": 0.847
+            },
+            {
+                "symbol": "PLTR",
+                "name": "Palantir Technologies Inc.",
+                "price": 167.86,
+                "change": -26.309999999999974,
+                "changePercent": -13.549981974558364,
+                "previousClose": 194.17
+            }
+        ]
+    },
+    "newsItems": [
+        {
+            "title": "Venture Capitalists Predict Many AI Startups Will Get Weeded Out in 2026",
+            "url": "https://www.wsj.com/articles/venture-capitalists-predict-many-ai-startups-will-get-weeded-out-in-2026-61134d89",
+            "imageUrl": "data:image/jpeg;base64,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",
+            "source": "The Wall Street Journal",
+            "date": "2026-01-02"
+        },
+        {
+            "title": "Everyone's Watching Stocks. The Real Bubble Is AI Debt.",
+            "url": "https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt",
+            "imageUrl": "data:image/jpeg;base64,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",
+            "source": "Bloomberg",
+            "date": "2025-12-31"
+        },
+        {
+            "title": "How the AI 'bubble' compares to history",
+            "url": "https://www.ft.com/content/41e9d03a-e5c1-4862-9836-b3c80b3f9be4",
+            "imageUrl": "data:image/jpeg;base64,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",
+            "source": "Financial Times",
+            "date": "2025-12-30"
+        }
+    ],
+    "hypeVsReality": {
+        "shillerPE": {
+            "label": "Shiller PE Ratio",
+            "value": "40.23",
+            "date": "Jan 2026",
+            "change": "+0.29",
+            "trend": "up",
+            "description": "Valuation continues to climb.",
+            "dataSource": ""
+        },
+        "metrics": [
+            {
+                "id": "investments",
+                "label": "Investments in AI",
+                "value": "$252.3 billion",
+                "change": "+25.5%",
+                "trend": "up",
+                "icon": "zap",
+                "description": "in global corporate AI investment last year, according to Stanford University's Artificial Intelligence Report 2025.",
+                "disclaimer": "Trend in global corporate AI investment including mergers and acquisitions, minority stakes, private investments, and public offerings.",
+                "dataSource": "Artificial Intelligence Index Report 2025. https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf"
+            },
+            {
+                "id": "jobCuts",
+                "label": "Job cuts",
+                "value": "6,280",
+                "change": "-24,759",
+                "trend": "down",
+                "icon": "skull",
+                "description": "jobs cut due to AI last month according to Challenger, Gray & Christmas's December report.",
+                "disclaimer": "Monthly number of jobs cut where Artificial Intelligence (AI) was cited as the reason.",
+                "dataSource": "Challenger, Gray & Christmas. https://www.challengergray.com/blog/challenger-report-71321-job-cuts-on-restructurings-closings-economy/ https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/"
+            }
+        ]
+    }
+}

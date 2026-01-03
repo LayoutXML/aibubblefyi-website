@@ -4,13 +4,21 @@
       <stop offset="0%" style="stop-color:#eff6ff;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#dbeafe;stop-opacity:1" />
     </linearGradient>
+    <linearGradient id="bubble-grad-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8fbdf7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#89a4c7;stop-opacity:1" />
+    </linearGradient>
   </defs>
+  
+  <!-- Smaller Bubbles -->
+  <circle cx="18" cy="20" r="16" fill="url(#bubble-grad-dark)" stroke="#3b82f6" stroke-width="1.2" />
+
   <!-- Main Bubble -->
   <circle cx="45" cy="55" r="40" fill="url(#bubble-grad)" stroke="#3b82f6" stroke-width="2" />
   <text x="45" y="63" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1d4ed8" text-anchor="middle">AI</text>
   <circle cx="65" cy="35" r="6" fill="white" opacity="0.4" />
   
   <!-- Smaller Bubbles -->
-  <circle cx="82" cy="28" r="12" fill="url(#bubble-grad)" stroke="#3b82f6" stroke-width="1.5" />
-  <circle cx="92" cy="12" r="6" fill="url(#bubble-grad)" stroke="#3b82f6" stroke-width="1" />
+  <circle cx="78" cy="28" r="20" fill="url(#bubble-grad-dark)" stroke="#3b82f6" stroke-width="1.5" />
+  <circle cx="12" cy="86" r="8" fill="url(#bubble-grad-dark)" stroke="#3b82f6" stroke-width="1.2" />
 </svg>
