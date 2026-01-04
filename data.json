@@ -1,13 +1,13 @@
 {
-    "lastUpdated": "2026-01-03T20:52:31.666348Z",
+    "lastUpdated": "2026-01-04T17:51:20.787585Z",
     "bubbleStatus": {
-        "percentageChange": "-1.1%",
+        "percentageChange": "+16.9%",
         "status": "HYPE IS GROWING",
-        "subStatus": "Moderate decrease",
+        "subStatus": "Exceptional increase",
         "description": "Current metrics align with a period of sustained market optimism. Capital continues to flow into infrastructure, and valuations remain elevated relative to long-term historical averages.",
         "color": "green",
         "tracking": "S&P 500",
-        "comparedTo": "this time last week"
+        "comparedTo": "a year ago"
     },
     "stockPerformance": {
         "stocks": [
@@ -15,25 +15,25 @@
                 "symbol": "NVDA",
                 "name": "NVIDIA Corporation",
                 "price": 188.85,
-                "change": 0.23999999999998067,
-                "changePercent": 0.12724669953872045,
-                "previousClose": 188.61
+                "change": 50.53999999999999,
+                "changePercent": 36.541103318632054,
+                "previousClose": 138.31
             },
             {
                 "symbol": "MSFT",
                 "name": "Microsoft Corporation",
                 "price": 472.94,
-                "change": -15.079999999999984,
-                "changePercent": -3.09003729355354,
-                "previousClose": 488.02
+                "change": 54.360000000000014,
+                "changePercent": 12.986764776147933,
+                "previousClose": 418.58
             },
             {
                 "symbol": "GOOGL",
                 "name": "Alphabet Inc.",
                 "price": 315.15,
-                "change": 1.0600000000000023,
-                "changePercent": 0.3374828870705856,
-                "previousClose": 314.09
+                "change": 125.71999999999997,
+                "changePercent": 66.36752362350207,
+                "previousClose": 189.43
             },
             {
                 "symbol": "OPENAI",
@@ -43,61 +43,63 @@
                 "changePercent": null,
                 "previousClose": null
             }
-        ]
+        ],
+        "comparedTo": "a year ago"
     },
     "topMovers": {
         "gainers": [
             {
-                "symbol": "RBOT",
-                "name": "Vicarious Surgical Inc.",
-                "price": 2.52,
-                "change": 0.56,
-                "changePercent": 28.571428571428577,
-                "previousClose": 1.96
+                "symbol": "HYFT",
+                "name": "MindWalk Holdings Corp.",
+                "price": 2.02,
+                "change": 1.57,
+                "changePercent": 348.8888888888889,
+                "previousClose": 0.45
             },
             {
-                "symbol": "AVAI",
-                "name": "Avant Technologies Inc.",
-                "price": 0.41,
-                "change": 0.08799999999999997,
-                "changePercent": 27.32919254658384,
-                "previousClose": 0.322
+                "symbol": "MU",
+                "name": "Micron Technology, Inc.",
+                "price": 315.42,
+                "change": 228.09000000000003,
+                "changePercent": 261.1817244933013,
+                "previousClose": 87.33
             },
             {
-                "symbol": "BIDU",
-                "name": "Baidu, Inc.",
-                "price": 150.3,
-                "change": 26.940000000000012,
-                "changePercent": 21.83852140077822,
-                "previousClose": 123.36
+                "symbol": "SYM",
+                "name": "Symbotic Inc.",
+                "price": 64.87,
+                "change": 40.160000000000004,
+                "changePercent": 162.5252934034804,
+                "previousClose": 24.71
             }
         ],
         "losers": [
             {
-                "symbol": "ARAI",
-                "name": "Arrive AI Inc.",
-                "price": 2.71,
-                "change": -0.6000000000000001,
-                "changePercent": -18.12688821752266,
-                "previousClose": 3.31
+                "symbol": "PRST",
+                "name": "Presto Automation, Inc.",
+                "price": 1.0E-4,
+                "change": -0.0028,
+                "changePercent": -96.55172413793103,
+                "previousClose": 0.0029
             },
             {
-                "symbol": "ORKT",
-                "name": "Orangekloud Technology Inc.",
-                "price": 0.721,
-                "change": -0.126,
-                "changePercent": -14.87603305785124,
-                "previousClose": 0.847
+                "symbol": "FRGT",
+                "name": "Freight Technologies, Inc.",
+                "price": 1.84,
+                "change": -38.959999999999994,
+                "changePercent": -95.49019607843137,
+                "previousClose": 40.8
             },
             {
-                "symbol": "PLTR",
-                "name": "Palantir Technologies Inc.",
-                "price": 167.86,
-                "change": -26.309999999999974,
-                "changePercent": -13.549981974558364,
-                "previousClose": 194.17
+                "symbol": "VERS.NE",
+                "name": "VERSES AI INC. SUBORDINATE VOTI",
+                "price": 2.42,
+                "change": -50.23,
+                "changePercent": -95.40360873694208,
+                "previousClose": 52.65
             }
-        ]
+        ],
+        "comparedTo": "a year ago"
     },
     "newsItems": [
         {
@@ -151,7 +153,7 @@
                 "change": "-24,759",
                 "trend": "down",
                 "icon": "skull",
-                "description": "jobs cut due to AI last month according to Challenger, Gray & Christmas's December report.",
+                "description": "jobs cut in the US due to AI last month according to Challenger, Gray & Christmas's December report.",
                 "disclaimer": "Monthly number of jobs cut where Artificial Intelligence (AI) was cited as the reason.",
                 "dataSource": "Challenger, Gray & Christmas. https://www.challengergray.com/blog/challenger-report-71321-job-cuts-on-restructurings-closings-economy/ https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/"
             }
