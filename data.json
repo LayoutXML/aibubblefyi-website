@@ -1,7 +1,7 @@
 {
-    "lastUpdated": "2026-01-04T17:51:20.787585Z",
+    "lastUpdated": "2026-01-05T21:13:35.729566Z",
     "bubbleStatus": {
-        "percentageChange": "+16.9%",
+        "percentageChange": "+16.1%",
         "status": "HYPE IS GROWING",
         "subStatus": "Exceptional increase",
         "description": "Current metrics align with a period of sustained market optimism. Capital continues to flow into infrastructure, and valuations remain elevated relative to long-term historical averages.",
@@ -14,26 +14,26 @@
             {
                 "symbol": "NVDA",
                 "name": "NVIDIA Corporation",
-                "price": 188.85,
-                "change": 50.53999999999999,
-                "changePercent": 36.541103318632054,
-                "previousClose": 138.31
+                "price": 188.12,
+                "change": 43.650000000000006,
+                "changePercent": 30.213885235689077,
+                "previousClose": 144.47
             },
             {
                 "symbol": "MSFT",
                 "name": "Microsoft Corporation",
-                "price": 472.94,
-                "change": 54.360000000000014,
-                "changePercent": 12.986764776147933,
-                "previousClose": 418.58
+                "price": 472.85,
+                "change": 49.5,
+                "changePercent": 11.692453053029407,
+                "previousClose": 423.35
             },
             {
                 "symbol": "GOOGL",
                 "name": "Alphabet Inc.",
-                "price": 315.15,
-                "change": 125.71999999999997,
-                "changePercent": 66.36752362350207,
-                "previousClose": 189.43
+                "price": 316.54,
+                "change": 124.75000000000003,
+                "changePercent": 65.04510141300382,
+                "previousClose": 191.79
             },
             {
                 "symbol": "OPENAI",
@@ -51,52 +51,52 @@
             {
                 "symbol": "HYFT",
                 "name": "MindWalk Holdings Corp.",
-                "price": 2.02,
-                "change": 1.57,
-                "changePercent": 348.8888888888889,
-                "previousClose": 0.45
+                "price": 2.26,
+                "change": 1.7399999999999998,
+                "changePercent": 334.6153846153846,
+                "previousClose": 0.52
             },
             {
                 "symbol": "MU",
                 "name": "Micron Technology, Inc.",
-                "price": 315.42,
-                "change": 228.09000000000003,
-                "changePercent": 261.1817244933013,
-                "previousClose": 87.33
+                "price": 312.15,
+                "change": 222.27999999999997,
+                "changePercent": 247.3350395015021,
+                "previousClose": 89.87
             },
             {
                 "symbol": "SYM",
                 "name": "Symbotic Inc.",
-                "price": 64.87,
-                "change": 40.160000000000004,
-                "changePercent": 162.5252934034804,
-                "previousClose": 24.71
+                "price": 68.62,
+                "change": 42.980000000000004,
+                "changePercent": 167.62870514820594,
+                "previousClose": 25.64
             }
         ],
         "losers": [
             {
+                "symbol": "KITT",
+                "name": "Nauticus Robotics, Inc.",
+                "price": 1.0,
+                "change": -33.2,
+                "changePercent": -97.07602339181287,
+                "previousClose": 34.2
+            },
+            {
                 "symbol": "PRST",
                 "name": "Presto Automation, Inc.",
                 "price": 1.0E-4,
-                "change": -0.0028,
-                "changePercent": -96.55172413793103,
-                "previousClose": 0.0029
+                "change": -0.0024000000000000002,
+                "changePercent": -96.00000000000001,
+                "previousClose": 0.0025
             },
             {
                 "symbol": "FRGT",
                 "name": "Freight Technologies, Inc.",
-                "price": 1.84,
-                "change": -38.959999999999994,
-                "changePercent": -95.49019607843137,
-                "previousClose": 40.8
-            },
-            {
-                "symbol": "VERS.NE",
-                "name": "VERSES AI INC. SUBORDINATE VOTI",
-                "price": 2.42,
-                "change": -50.23,
-                "changePercent": -95.40360873694208,
-                "previousClose": 52.65
+                "price": 2.01,
+                "change": -42.59,
+                "changePercent": -95.4932735426009,
+                "previousClose": 44.6
             }
         ],
         "comparedTo": "a year ago"
@@ -126,36 +126,47 @@
     ],
     "hypeVsReality": {
         "shillerPE": {
-            "label": "Shiller PE Ratio",
+            "label": "Shiller P/E Ratio",
             "value": "40.23",
             "date": "Jan 2026",
             "change": "+0.29",
             "trend": "up",
-            "description": "Valuation continues to climb.",
+            "description": "Indicates that the market is considered highly overvalued from a long-term historical perspective. This value is more than double the historical average.",
             "dataSource": ""
         },
         "metrics": [
+            {
+                "id": "ramPrices",
+                "label": "RAM Prices",
+                "value": "~$117",
+                "change": "+134%",
+                "trend": "up",
+                "icon": "memoryStick",
+                "description": "average price for DDR4 16GB kit (2x8GB) 3200 RAM compared to a year ago.",
+                "disclaimer": "Current average price of DDR4 16GB kit (2x8GB) 3200 RAM.",
+                "dataSource": ""
+            },
+            {
+                "id": "jobCuts",
+                "label": "Job Cuts",
+                "value": "6,280",
+                "change": "-24,759",
+                "trend": "down",
+                "icon": "briefcase",
+                "description": "jobs cut in the US last month due to AI according to Challenger, Gray & Christmas's December report.",
+                "disclaimer": "Monthly number of jobs cut where Artificial Intelligence (AI) was cited as the reason.",
+                "dataSource": "Challenger, Gray & Christmas. https://www.challengergray.com/blog/challenger-report-71321-job-cuts-on-restructurings-closings-economy/ https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/"
+            },
             {
                 "id": "investments",
                 "label": "Investments in AI",
                 "value": "$252.3 billion",
                 "change": "+25.5%",
                 "trend": "up",
-                "icon": "zap",
+                "icon": "landmark",
                 "description": "in global corporate AI investment last year, according to Stanford University's Artificial Intelligence Report 2025.",
                 "disclaimer": "Trend in global corporate AI investment including mergers and acquisitions, minority stakes, private investments, and public offerings.",
                 "dataSource": "Artificial Intelligence Index Report 2025. https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf"
-            },
-            {
-                "id": "jobCuts",
-                "label": "Job cuts",
-                "value": "6,280",
-                "change": "-24,759",
-                "trend": "down",
-                "icon": "skull",
-                "description": "jobs cut in the US due to AI last month according to Challenger, Gray & Christmas's December report.",
-                "disclaimer": "Monthly number of jobs cut where Artificial Intelligence (AI) was cited as the reason.",
-                "dataSource": "Challenger, Gray & Christmas. https://www.challengergray.com/blog/challenger-report-71321-job-cuts-on-restructurings-closings-economy/ https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/"
             }
         ]
     }
