@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-01-10T22:30:50.101038Z",
+    "lastUpdated": "2026-01-11T19:18:05.269950Z",
     "bubbleStatus": {
         "percentageChange": "+17.7%",
         "status": "HYPE IS GROWING",
@@ -14,9 +14,9 @@
             {
                 "symbol": "NVDA",
                 "name": "NVIDIA Corporation",
-                "price": 184.86,
-                "change": 44.75,
-                "changePercent": 31.93919063592891,
+                "price": 184.825,
+                "change": 44.714999999999975,
+                "changePercent": 31.914210263364478,
                 "previousClose": 140.11
             },
             {
@@ -77,17 +77,17 @@
             {
                 "symbol": "KITT",
                 "name": "Nauticus Robotics, Inc.",
-                "price": 0.892,
-                "change": -25.388,
-                "changePercent": -96.60578386605783,
+                "price": 0.9015,
+                "change": -25.378500000000003,
+                "changePercent": -96.56963470319636,
                 "previousClose": 26.28
             },
             {
                 "symbol": "VERS.NE",
                 "name": "VERSES AI INC. SUBORDINATE VOTI",
-                "price": 2.29,
-                "change": -45.230000000000004,
-                "changePercent": -95.18097643097644,
+                "price": 2.25,
+                "change": -45.27,
+                "changePercent": -95.26515151515152,
                 "previousClose": 47.52
             },
             {
@@ -147,7 +147,7 @@
         {
             "title": "Venture Capitalists Predict Many AI Startups Will Get Weeded Out in 2026",
             "url": "https://www.wsj.com/articles/venture-capitalists-predict-many-ai-startups-will-get-weeded-out-in-2026-61134d89",
-            "imageUrl": "data:image/svg+xml;bsae64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIiB2aWV3Qm94PSIwIDAgNjAwIDYwMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2Y1ZjVmNSIvPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0xMzcuOTcgMjg3LjU1NXYzLjg3aC03LjYzdjIxLjQ0aC00Ljd2LTIxLjQ0aC03LjYzdi0zLjg3em02Ljk3LS43djkuOThxMS4wNS0uOTggMi4zMS0xLjU5IDEuMjYtLjYyIDIuOTYtLjYyIDEuNDcgMCAyLjYuNSAxLjE0LjUgMS45IDEuNHQxLjE2IDIuMTZxLjM5IDEuMjUuMzkgMi43NXYxMS40M2gtNC4zMnYtMTEuNDNxMC0xLjY0LS43NS0yLjU0LS43Ni0uOTEtMi4zLS45MS0xLjEyIDAtMi4xLjUxdC0xLjg1IDEuMzh2MTIuOTloLTQuMzJ2LTI2LjAxem0xOC44MyAxNC45N2g4LjE1cTAtLjg0LS4yMy0xLjU5LS4yNC0uNzQtLjcxLTEuM3QtMS4yLS44OHEtLjczLS4zMy0xLjY5LS4zMy0xLjg3IDAtMi45NSAxLjA3LTEuMDcgMS4wNy0xLjM3IDMuMDNtMTEuMDIgMi42aC0xMS4xMXEuMTEgMS4zOS40OSAyLjM5LjM5IDEuMDEgMS4wMiAxLjY3LjYzLjY1IDEuNDkuOTguODcuMzIgMS45Mi4zMnQxLjgxLS4yNXEuNzYtLjI0IDEuMzMtLjU0dDEtLjU0cS40My0uMjUuODMtLjI1LjU0IDAgLjguNDFsMS4yNSAxLjU3cS0uNzIuODQtMS42MSAxLjQxLS45LjU3LTEuODcuOTF0LTEuOTcuNDhxLTEuMDEuMTQtMS45Ni4xNC0xLjg3IDAtMy40OC0uNjJ0LTIuOC0xLjg0cS0xLjE5LTEuMjEtMS44Ny0zLjAxLS42OC0xLjc5LS42OC00LjE1IDAtMS44NC41OS0zLjQ2LjYtMS42MiAxLjcxLTIuODJ0Mi43MS0xLjkgMy42MS0uN3ExLjcgMCAzLjE0LjU1IDEuNDMuNTQgMi40NiAxLjU4IDEuMDQgMS4wNCAxLjYyIDIuNTYuNTkgMS41MS41OSAzLjQ1IDAgLjk4LS4yMSAxLjMydC0uODEuMzRtNDMuNDItMTYuODdoMy42OWwtNy44NSAyNS4zMWgtNC4yNmwtNS41My0xNy4yOXEtLjIyLS42My0uNDItMS41NC0uMS40NC0uMjEuODItLjEuMzktLjIyLjcybC01LjU5IDE3LjI5aC00LjI3bC03Ljg0LTI1LjMxaDMuOTRxLjYxIDAgMS4wMy4yOS40MS4yOS41NS43OGw0LjMgMTUuMTRxLjE0LjU2LjI3IDEuMjIuMTMuNjUuMjcgMS4zNy4xNC0uNzQuMzEtMS4zOC4xNy0uNjUuMzYtMS4yMWw0Ljk3LTE1LjE0cS4xNC0uNC41NS0uNzMuNDEtLjM0IDEuMDEtLjM0aDEuMzhxLjYxIDAgMSAuMy4zOC4zLjU3Ljc3bDQuOTYgMTUuMTRxLjM2IDEuMDguNjYgMi41LjIzLTEuMzguNTEtMi41bDQuMy0xNS4xNHEuMTEtLjQ0LjU0LS43NS40My0uMzIgMS4wMi0uMzJtMTUuNjEgMjAuNjd2LTMuMDNxLTEuODcuMDktMy4xNS4zMy0xLjI4LjIzLTIuMDUuNnQtMS4xLjg2LS4zMyAxLjA3cTAgMS4xMy42NyAxLjYyLjY4LjQ5IDEuNzYuNDkgMS4zMyAwIDIuMy0uNDh0MS45LTEuNDZtLTkuMTMtOS40My0uNzctMS4zOHEzLjA5LTIuODQgNy40NS0yLjg0IDEuNTggMCAyLjgyLjUyIDEuMjQuNTEgMi4xIDEuNDN0MS4zIDIuMnEuNDUgMS4yOC40NSAyLjh2MTEuMzRoLTEuOTZxLS42MSAwLS45NS0uMTgtLjMzLS4xOS0uNTItLjc1bC0uMzktMS4yOXEtLjY4LjYxLTEuMzMgMS4wNy0uNjQuNDctMS4zNC43OC0uNy4zMi0xLjUuNDgtLjguMTctMS43Ni4xNy0xLjE0IDAtMi4xLS4zMS0uOTYtLjMtMS42Ni0uOTItLjctLjYxLTEuMDktMS41Mi0uMzgtLjkxLS4zOC0yLjEyIDAtLjY4LjIzLTEuMzUuMjItLjY4Ljc0LTEuMjl0MS4zNC0xLjE1cS44Mi0uNTUgMi4wMi0uOTV0Mi43OS0uNjVxMS41OS0uMjYgMy42NC0uMzF2LTEuMDVxMC0xLjgtLjc3LTIuNjd0LTIuMjItLjg3cS0xLjA1IDAtMS43NC4yNS0uNjkuMjQtMS4yMi41NS0uNTIuMzEtLjk1LjU1LS40My4yNS0uOTYuMjUtLjQ1IDAtLjc3LS4yNC0uMzEtLjI0LS41LS41NW0xNy40Ni0xMS45NGg0LjMydjI2LjAxaC00LjMyem04LjcgMGg0LjMydjI2LjAxaC00LjMyem0zMi40OCAzLjA4LTEuMTcgMi4yM3EtLjIxLjM2LS40NS41M3QtLjU5LjE3cS0uMzYgMC0uNzktLjI3LS40My0uMjgtMS4wMy0uNjEtLjU5LS4zMy0xLjM5LS42LS43OS0uMjctMS44OC0uMjctLjk4IDAtMS43MS4yMy0uNzQuMjQtMS4yNC42NnQtLjc0IDEuMDFxLS4yNS41OC0uMjUgMS4yOCAwIC44OS41IDEuNDkuNS41OSAxLjMyIDEuMDEuODMuNDIgMS44OC43NiAxLjA1LjMzIDIuMTUuNzEgMS4xLjM3IDIuMTUuODd0MS44NyAxLjI2cS44My43NiAxLjMzIDEuODYuNDkgMS4xMS40OSAyLjY4IDAgMS43Mi0uNTggMy4yMS0uNTkgMS41LTEuNzIgMi42MXQtMi43NSAxLjc1cS0xLjYzLjY0LTMuNzMuNjQtMS4yMSAwLTIuMzgtLjI0LTEuMTctLjIzLTIuMjUtLjY3dC0yLjAyLTEuMDVxLS45NS0uNjEtMS42OC0xLjM3bDEuMzgtMi4yNXEuMTgtLjI1LjQ2LS40MS4yOC0uMTcuNTktLjE3LjQ0IDAgLjk1LjM2LjUuMzYgMS4yLjc5LjcuNDQgMS42NC44dDIuMjUuMzZxMi4wMSAwIDMuMTEtLjk1IDEuMTEtLjk2IDEuMTEtMi43NCAwLTEtLjUtMS42M3QtMS4zMi0xLjA2cS0uODMtLjQzLTEuODgtLjczLTEuMDUtLjI5LTIuMTMtLjY0LTEuMDktLjM1LTIuMTQtLjg0dC0xLjg3LTEuMjgtMS4zMi0xLjk3LS41LTIuOTFxMC0xLjM5LjU1LTIuN3QxLjYtMi4zM3ExLjA1LTEuMDEgMi41OS0xLjYyIDEuNTQtLjYyIDMuNTQtLjYyIDIuMjQgMCA0LjEzLjd0My4yMiAxLjk2bTkuODUgMjMuMjFxLTIuMzQgMC0zLjU5LTEuMzItMS4yNi0xLjMyLTEuMjYtMy42NXYtMTAuMDNoLTEuODNxLS4zNSAwLS42LS4yMy0uMjQtLjIyLS4yNC0uNjh2LTEuNzFsMi44OC0uNDguOTEtNC45cS4wOS0uMzUuMzQtLjU0LjI0LS4xOS42My0uMTloMi4yNHY1LjY1aDQuNzl2My4wOGgtNC43OXY5LjczcTAgLjg0LjQxIDEuMzEuNDEuNDggMS4xMy40OC40IDAgLjY3LS4xdC40Ny0uMmwuMzYtLjJxLjE2LS4xLjMyLS4xLjE5IDAgLjMxLjEuMTIuMDkuMjYuMjlsMS4zIDIuMXEtLjk1Ljc4LTIuMTcgMS4xOS0xLjIzLjQtMi41NC40bTEwLjg1LTE3LjE1LjI2IDIuMDNxLjg0LTEuNjEgMi0yLjUzIDEuMTUtLjkyIDIuNzMtLjkyIDEuMjQgMCAxLjk5LjU0bC0uMjggMy4yNHEtLjA4LjMyLS4yNS40NXQtLjQ1LjEzcS0uMjYgMC0uNzctLjA5LS41Mi0uMDktMS4wMS0uMDktLjcyIDAtMS4yOC4yMXQtMSAuNjFxLS40NS4zOS0uNzkuOTV0LS42NCAxLjI4djExLjA2aC00LjMydi0xNy45NmgyLjUzcS42NyAwIC45My4yNHQuMzUuODVtMTIuNjUgNS44M2g4LjE2cTAtLjg0LS4yNC0xLjU5LS4yMy0uNzQtLjcxLTEuMy0uNDctLjU2LTEuMTktLjg4LS43My0uMzMtMS42OS0uMzMtMS44OCAwLTIuOTUgMS4wNy0xLjA4IDEuMDctMS4zOCAzLjAzbTExLjAzIDIuNkgzMTYuNnEuMSAxLjM5LjQ5IDIuMzkuMzggMS4wMSAxLjAxIDEuNjcuNjMuNjUgMS41Ljk4Ljg2LjMyIDEuOTEuMzJ0MS44Mi0uMjVxLjc2LS4yNCAxLjMzLS41NC41Ni0uMy45OS0uNTQuNDMtLjI1LjgzLS4yNS41NSAwIC44MS40MWwxLjI0IDEuNTdxLS43Mi44NC0xLjYxIDEuNDF0LTEuODYuOTEtMS45OC40OC0xLjk1LjE0cS0xLjg3IDAtMy40OC0uNjJ0LTIuOC0xLjg0cS0xLjE5LTEuMjEtMS44OC0zLjAxLS42OC0xLjc5LS42OC00LjE1IDAtMS44NC42LTMuNDYuNTktMS42MiAxLjctMi44MnQyLjcyLTEuOXExLjYtLjcgMy42MS0uNyAxLjcgMCAzLjEzLjU1IDEuNDQuNTQgMi40NyAxLjU4dDEuNjIgMi41NnEuNTggMS41MS41OCAzLjQ1IDAgLjk4LS4yMSAxLjMydC0uOC4zNG03LjY2LTIuNmg4LjE2cTAtLjg0LS4yNC0xLjU5LS4yMy0uNzQtLjcxLTEuMy0uNDctLjU2LTEuMTktLjg4LS43My0uMzMtMS42OS0uMzMtMS44OCAwLTIuOTUgMS4wNy0xLjA4IDEuMDctMS4zOCAzLjAzbTExLjAzIDIuNmgtMTEuMTFxLjEgMS4zOS40OSAyLjM5LjM4IDEuMDEgMS4wMSAxLjY3LjYzLjY1IDEuNS45OC44Ni4zMiAxLjkyLjMyIDEuMDQgMCAxLjgxLS4yNS43Ni0uMjQgMS4zMy0uNTQuNTYtLjMuOTktLjU0LjQzLS4yNS44My0uMjUuNTUgMCAuODEuNDFsMS4yNCAxLjU3cS0uNzIuODQtMS42MSAxLjQxdC0xLjg2LjkxLTEuOTguNDgtMS45NS4xNHEtMS44NyAwLTMuNDgtLjYydC0yLjgtMS44NHEtMS4xOS0xLjIxLTEuODgtMy4wMS0uNjgtMS43OS0uNjgtNC4xNSAwLTEuODQuNi0zLjQ2LjU5LTEuNjIgMS43LTIuODJ0Mi43Mi0xLjlxMS42LS43IDMuNjEtLjcgMS43IDAgMy4xMy41NSAxLjQ0LjU0IDIuNDcgMS41OHQxLjYyIDIuNTZxLjU4IDEuNTEuNTggMy40NSAwIC45OC0uMiAxLjMyLS4yMi4zNC0uODEuMzRtMTAuMjQgOC43MnEtMi4zNSAwLTMuNi0xLjMydC0xLjI1LTMuNjV2LTEwLjAzaC0xLjg0cS0uMzUgMC0uNTktLjIzLS4yNS0uMjItLjI1LS42OHYtMS43MWwyLjg5LS40OC45MS00LjlxLjA5LS4zNS4zMy0uNTQuMjUtLjE5LjYzLS4xOWgyLjI0djUuNjVoNC44djMuMDhoLTQuOHY5LjczcTAgLjg0LjQxIDEuMzEuNDIuNDggMS4xMy40OC40MSAwIC42OC0uMXQuNDctLjJsLjM2LS4ycS4xNS0uMS4zMS0uMS4yIDAgLjMyLjEuMTIuMDkuMjYuMjlsMS4zIDIuMXEtLjk1Ljc4LTIuMTggMS4xOS0xLjIyLjQtMi41My40bTI1Ljg2LTI1LjU5djE2LjMxcTAgMi4xNC0uNTIgMy44NS0uNTMgMS43Mi0xLjU3IDIuOTMtMS4wNCAxLjItMi42IDEuODUtMS41NS42NS0zLjYyLjY1LS45NCAwLTEuODUtLjExLS45Mi0uMTItMS45MS0uMzYuMDUtLjcuMTItMS40dC4xMi0xLjRxLjA2LS4zOS4zMS0uNjIuMjUtLjI0LjczLS4yNC4yOSAwIC43Ny4xMi40OS4xMiAxLjIyLjEyIDEgMCAxLjc3LS4yOC43Ny0uMjkgMS4yOC0uOTIuNTItLjYzLjc4LTEuNjQuMjctMS4wMS4yNy0yLjQ0di0xNi40MnptMTIuNjYgNy4wN3ExLjk5IDAgMy42My42NSAxLjYzLjY1IDIuOCAxLjg0IDEuMTYgMS4xOSAxLjc5IDIuOS42MyAxLjcyLjYzIDMuODQgMCAyLjEzLS42MyAzLjg1LS42MyAxLjcxLTEuNzkgMi45Mi0xLjE3IDEuMjEtMi44IDEuODUtMS42NC42NS0zLjYzLjY1LTIuMDIgMC0zLjY2LS42NS0xLjY1LS42NC0yLjgxLTEuODV0LTEuOC0yLjkycS0uNjQtMS43Mi0uNjQtMy44NSAwLTIuMTIuNjQtMy44NC42NC0xLjcxIDEuOC0yLjl0Mi44MS0xLjg0cTEuNjQtLjY1IDMuNjYtLjY1bTAgMTUuMThxMi4yMyAwIDMuMzEtMS41MSAxLjA4LTEuNSAxLjA4LTQuNDEgMC0yLjktMS4wOC00LjQzLTEuMDgtMS41Mi0zLjMxLTEuNTItMi4yOCAwLTMuMzcgMS41My0xLjEgMS41My0xLjEgNC40MnQxLjEgNC40cTEuMDkgMS41MiAzLjM3IDEuNTJtMjMuMzEtMTQuOWg0LjMydjE3Ljk2aC0yLjY0cS0uODYgMC0xLjA5LS43OWwtLjMtMS40M3EtMS4xIDEuMTItMi40MyAxLjgxdC0zLjEzLjY5cS0xLjQ3IDAtMi42LS41dC0xLjktMS40MS0xLjE2LTIuMTZxLS40LTEuMjUtLjQtMi43NnYtMTEuNDFoNC4zM3YxMS40MXEwIDEuNjUuNzYgMi41NXQyLjI4LjlxMS4xMiAwIDIuMS0uNXQxLjg2LTEuMzd6bTEyLjQgMS4wOS4yNyAyLjAzcS44NC0xLjYxIDEuOTktMi41MyAxLjE2LS45MiAyLjczLS45MiAxLjI0IDAgMiAuNTRsLS4yOCAzLjI0cS0uMDkuMzItLjI2LjQ1dC0uNDQuMTMtLjc4LS4wOXEtLjUyLS4wOS0xLjAxLS4wOS0uNzIgMC0xLjI4LjIxdC0xIC42MXEtLjQ1LjM5LS43OS45NXQtLjY0IDEuMjh2MTEuMDZoLTQuMzJ2LTE3Ljk2aDIuNTRxLjY2IDAgLjkyLjI0LjI3LjI0LjM1Ljg1bTEyLjk5LS4zLjMgMS40MnEuNTQtLjU0IDEuMTQtMS4wMS42MS0uNDYgMS4yOC0uNzguNjctLjMzIDEuNDQtLjUxLjc3LS4xOSAxLjY4LS4xOSAxLjQ3IDAgMi42MS41dDEuOSAxLjQgMS4xNSAyLjE2cS40IDEuMjUuNCAyLjc1djExLjQzaC00LjMydi0xMS40M3EwLTEuNjQtLjc2LTIuNTQtLjc1LS45MS0yLjI5LS45MS0xLjEyIDAtMi4xLjUxdC0xLjg1IDEuMzh2MTIuOTloLTQuMzN2LTE3Ljk2aDIuNjVxLjg0IDAgMS4xLjc5bTI1LjQ4IDEyLjUzdi0zLjAzcS0xLjg3LjA5LTMuMTUuMzMtMS4yOC4yMy0yLjA1LjZ0LTEuMS44Ni0uMzMgMS4wN3EwIDEuMTMuNjcgMS42MnQxLjc2LjQ5cTEuMzMgMCAyLjMtLjQ4dDEuOS0xLjQ2bS05LjE0LTkuNDMtLjc3LTEuMzhxMy4xLTIuODQgNy40Ni0yLjg0IDEuNTcgMCAyLjgyLjUyIDEuMjQuNTEgMi4xIDEuNDMuODUuOTIgMS4zIDIuMnQuNDUgMi44djExLjM0aC0xLjk2cS0uNjIgMC0uOTUtLjE4LS4zMy0uMTktLjUyLS43NWwtLjM5LTEuMjlxLS42OC42MS0xLjMzIDEuMDctLjY1LjQ3LTEuMzUuNzgtLjcuMzItMS40OS40OC0uOC4xNy0xLjc2LjE3LTEuMTQgMC0yLjEtLjMxLS45Ni0uMy0xLjY2LS45Mi0uNy0uNjEtMS4wOS0xLjUyLS4zOC0uOTEtLjM4LTIuMTIgMC0uNjguMjItMS4zNS4yMy0uNjguNzUtMS4yOS41MS0uNjEgMS4zNC0xLjE1LjgyLS41NSAyLjAyLS45NXQyLjc5LS42NXExLjU5LS4yNiAzLjY0LS4zMXYtMS4wNXEwLTEuOC0uNzctMi42N3QtMi4yMi0uODdxLTEuMDUgMC0xLjc1LjI1LS42OS4yNC0xLjIxLjU1LS41My4zMS0uOTYuNTUtLjQyLjI1LS45NS4yNS0uNDUgMC0uNzctLjI0LS4zMS0uMjQtLjUxLS41NW0xNy40Ny0xMS45NGg0LjMydjI2LjAxaC00LjMyeiIvPjwvc3ZnPg==",
+            "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIiB2aWV3Qm94PSIwIDAgNjAwIDYwMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2Y1ZjVmNSIvPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0xMzcuOTcgMjg3LjU1NXYzLjg3aC03LjYzdjIxLjQ0aC00Ljd2LTIxLjQ0aC03LjYzdi0zLjg3em02Ljk3LS43djkuOThxMS4wNS0uOTggMi4zMS0xLjU5IDEuMjYtLjYyIDIuOTYtLjYyIDEuNDcgMCAyLjYuNSAxLjE0LjUgMS45IDEuNHQxLjE2IDIuMTZxLjM5IDEuMjUuMzkgMi43NXYxMS40M2gtNC4zMnYtMTEuNDNxMC0xLjY0LS43NS0yLjU0LS43Ni0uOTEtMi4zLS45MS0xLjEyIDAtMi4xLjUxdC0xLjg1IDEuMzh2MTIuOTloLTQuMzJ2LTI2LjAxem0xOC44MyAxNC45N2g4LjE1cTAtLjg0LS4yMy0xLjU5LS4yNC0uNzQtLjcxLTEuM3QtMS4yLS44OHEtLjczLS4zMy0xLjY5LS4zMy0xLjg3IDAtMi45NSAxLjA3LTEuMDcgMS4wNy0xLjM3IDMuMDNtMTEuMDIgMi42aC0xMS4xMXEuMTEgMS4zOS40OSAyLjM5LjM5IDEuMDEgMS4wMiAxLjY3LjYzLjY1IDEuNDkuOTguODcuMzIgMS45Mi4zMnQxLjgxLS4yNXEuNzYtLjI0IDEuMzMtLjU0dDEtLjU0cS40My0uMjUuODMtLjI1LjU0IDAgLjguNDFsMS4yNSAxLjU3cS0uNzIuODQtMS42MSAxLjQxLS45LjU3LTEuODcuOTF0LTEuOTcuNDhxLTEuMDEuMTQtMS45Ni4xNC0xLjg3IDAtMy40OC0uNjJ0LTIuOC0xLjg0cS0xLjE5LTEuMjEtMS44Ny0zLjAxLS42OC0xLjc5LS42OC00LjE1IDAtMS44NC41OS0zLjQ2LjYtMS42MiAxLjcxLTIuODJ0Mi43MS0xLjkgMy42MS0uN3ExLjcgMCAzLjE0LjU1IDEuNDMuNTQgMi40NiAxLjU4IDEuMDQgMS4wNCAxLjYyIDIuNTYuNTkgMS41MS41OSAzLjQ1IDAgLjk4LS4yMSAxLjMydC0uODEuMzRtNDMuNDItMTYuODdoMy42OWwtNy44NSAyNS4zMWgtNC4yNmwtNS41My0xNy4yOXEtLjIyLS42My0uNDItMS41NC0uMS40NC0uMjEuODItLjEuMzktLjIyLjcybC01LjU5IDE3LjI5aC00LjI3bC03Ljg0LTI1LjMxaDMuOTRxLjYxIDAgMS4wMy4yOS40MS4yOS41NS43OGw0LjMgMTUuMTRxLjE0LjU2LjI3IDEuMjIuMTMuNjUuMjcgMS4zNy4xNC0uNzQuMzEtMS4zOC4xNy0uNjUuMzYtMS4yMWw0Ljk3LTE1LjE0cS4xNC0uNC41NS0uNzMuNDEtLjM0IDEuMDEtLjM0aDEuMzhxLjYxIDAgMSAuMy4zOC4zLjU3Ljc3bDQuOTYgMTUuMTRxLjM2IDEuMDguNjYgMi41LjIzLTEuMzguNTEtMi41bDQuMy0xNS4xNHEuMTEtLjQ0LjU0LS43NS40My0uMzIgMS4wMi0uMzJtMTUuNjEgMjAuNjd2LTMuMDNxLTEuODcuMDktMy4xNS4zMy0xLjI4LjIzLTIuMDUuNnQtMS4xLjg2LS4zMyAxLjA3cTAgMS4xMy42NyAxLjYyLjY4LjQ5IDEuNzYuNDkgMS4zMyAwIDIuMy0uNDh0MS45LTEuNDZtLTkuMTMtOS40My0uNzctMS4zOHEzLjA5LTIuODQgNy40NS0yLjg0IDEuNTggMCAyLjgyLjUyIDEuMjQuNTEgMi4xIDEuNDN0MS4zIDIuMnEuNDUgMS4yOC40NSAyLjh2MTEuMzRoLTEuOTZxLS42MSAwLS45NS0uMTgtLjMzLS4xOS0uNTItLjc1bC0uMzktMS4yOXEtLjY4LjYxLTEuMzMgMS4wNy0uNjQuNDctMS4zNC43OC0uNy4zMi0xLjUuNDgtLjguMTctMS43Ni4xNy0xLjE0IDAtMi4xLS4zMS0uOTYtLjMtMS42Ni0uOTItLjctLjYxLTEuMDktMS41Mi0uMzgtLjkxLS4zOC0yLjEyIDAtLjY4LjIzLTEuMzUuMjItLjY4Ljc0LTEuMjl0MS4zNC0xLjE1cS44Mi0uNTUgMi4wMi0uOTV0Mi43OS0uNjVxMS41OS0uMjYgMy42NC0uMzF2LTEuMDVxMC0xLjgtLjc3LTIuNjd0LTIuMjItLjg3cS0xLjA1IDAtMS43NC4yNS0uNjkuMjQtMS4yMi41NS0uNTIuMzEtLjk1LjU1LS40My4yNS0uOTYuMjUtLjQ1IDAtLjc3LS4yNC0uMzEtLjI0LS41LS41NW0xNy40Ni0xMS45NGg0LjMydjI2LjAxaC00LjMyem04LjcgMGg0LjMydjI2LjAxaC00LjMyem0zMi40OCAzLjA4LTEuMTcgMi4yM3EtLjIxLjM2LS40NS41M3QtLjU5LjE3cS0uMzYgMC0uNzktLjI3LS40My0uMjgtMS4wMy0uNjEtLjU5LS4zMy0xLjM5LS42LS43OS0uMjctMS44OC0uMjctLjk4IDAtMS43MS4yMy0uNzQuMjQtMS4yNC42NnQtLjc0IDEuMDFxLS4yNS41OC0uMjUgMS4yOCAwIC44OS41IDEuNDkuNS41OSAxLjMyIDEuMDEuODMuNDIgMS44OC43NiAxLjA1LjMzIDIuMTUuNzEgMS4xLjM3IDIuMTUuODd0MS44NyAxLjI2cS44My43NiAxLjMzIDEuODYuNDkgMS4xMS40OSAyLjY4IDAgMS43Mi0uNTggMy4yMS0uNTkgMS41LTEuNzIgMi42MXQtMi43NSAxLjc1cS0xLjYzLjY0LTMuNzMuNjQtMS4yMSAwLTIuMzgtLjI0LTEuMTctLjIzLTIuMjUtLjY3dC0yLjAyLTEuMDVxLS45NS0uNjEtMS42OC0xLjM3bDEuMzgtMi4yNXEuMTgtLjI1LjQ2LS40MS4yOC0uMTcuNTktLjE3LjQ0IDAgLjk1LjM2LjUuMzYgMS4yLjc5LjcuNDQgMS42NC44dDIuMjUuMzZxMi4wMSAwIDMuMTEtLjk1IDEuMTEtLjk2IDEuMTEtMi43NCAwLTEtLjUtMS42M3QtMS4zMi0xLjA2cS0uODMtLjQzLTEuODgtLjczLTEuMDUtLjI5LTIuMTMtLjY0LTEuMDktLjM1LTIuMTQtLjg0dC0xLjg3LTEuMjgtMS4zMi0xLjk3LS41LTIuOTFxMC0xLjM5LjU1LTIuN3QxLjYtMi4zM3ExLjA1LTEuMDEgMi41OS0xLjYyIDEuNTQtLjYyIDMuNTQtLjYyIDIuMjQgMCA0LjEzLjd0My4yMiAxLjk2bTkuODUgMjMuMjFxLTIuMzQgMC0zLjU5LTEuMzItMS4yNi0xLjMyLTEuMjYtMy42NXYtMTAuMDNoLTEuODNxLS4zNSAwLS42LS4yMy0uMjQtLjIyLS4yNC0uNjh2LTEuNzFsMi44OC0uNDguOTEtNC45cS4wOS0uMzUuMzQtLjU0LjI0LS4xOS42My0uMTloMi4yNHY1LjY1aDQuNzl2My4wOGgtNC43OXY5LjczcTAgLjg0LjQxIDEuMzEuNDEuNDggMS4xMy40OC40IDAgLjY3LS4xdC40Ny0uMmwuMzYtLjJxLjE2LS4xLjMyLS4xLjE5IDAgLjMxLjEuMTIuMDkuMjYuMjlsMS4zIDIuMXEtLjk1Ljc4LTIuMTcgMS4xOS0xLjIzLjQtMi41NC40bTEwLjg1LTE3LjE1LjI2IDIuMDNxLjg0LTEuNjEgMi0yLjUzIDEuMTUtLjkyIDIuNzMtLjkyIDEuMjQgMCAxLjk5LjU0bC0uMjggMy4yNHEtLjA4LjMyLS4yNS40NXQtLjQ1LjEzcS0uMjYgMC0uNzctLjA5LS41Mi0uMDktMS4wMS0uMDktLjcyIDAtMS4yOC4yMXQtMSAuNjFxLS40NS4zOS0uNzkuOTV0LS42NCAxLjI4djExLjA2aC00LjMydi0xNy45NmgyLjUzcS42NyAwIC45My4yNHQuMzUuODVtMTIuNjUgNS44M2g4LjE2cTAtLjg0LS4yNC0xLjU5LS4yMy0uNzQtLjcxLTEuMy0uNDctLjU2LTEuMTktLjg4LS43My0uMzMtMS42OS0uMzMtMS44OCAwLTIuOTUgMS4wNy0xLjA4IDEuMDctMS4zOCAzLjAzbTExLjAzIDIuNkgzMTYuNnEuMSAxLjM5LjQ5IDIuMzkuMzggMS4wMSAxLjAxIDEuNjcuNjMuNjUgMS41Ljk4Ljg2LjMyIDEuOTEuMzJ0MS44Mi0uMjVxLjc2LS4yNCAxLjMzLS41NC41Ni0uMy45OS0uNTQuNDMtLjI1LjgzLS4yNS41NSAwIC44MS40MWwxLjI0IDEuNTdxLS43Mi44NC0xLjYxIDEuNDF0LTEuODYuOTEtMS45OC40OC0xLjk1LjE0cS0xLjg3IDAtMy40OC0uNjJ0LTIuOC0xLjg0cS0xLjE5LTEuMjEtMS44OC0zLjAxLS42OC0xLjc5LS42OC00LjE1IDAtMS44NC42LTMuNDYuNTktMS42MiAxLjctMi44MnQyLjcyLTEuOXExLjYtLjcgMy42MS0uNyAxLjcgMCAzLjEzLjU1IDEuNDQuNTQgMi40NyAxLjU4dDEuNjIgMi41NnEuNTggMS41MS41OCAzLjQ1IDAgLjk4LS4yMSAxLjMydC0uOC4zNG03LjY2LTIuNmg4LjE2cTAtLjg0LS4yNC0xLjU5LS4yMy0uNzQtLjcxLTEuMy0uNDctLjU2LTEuMTktLjg4LS43My0uMzMtMS42OS0uMzMtMS44OCAwLTIuOTUgMS4wNy0xLjA4IDEuMDctMS4zOCAzLjAzbTExLjAzIDIuNmgtMTEuMTFxLjEgMS4zOS40OSAyLjM5LjM4IDEuMDEgMS4wMSAxLjY3LjYzLjY1IDEuNS45OC44Ni4zMiAxLjkyLjMyIDEuMDQgMCAxLjgxLS4yNS43Ni0uMjQgMS4zMy0uNTQuNTYtLjMuOTktLjU0LjQzLS4yNS44My0uMjUuNTUgMCAuODEuNDFsMS4yNCAxLjU3cS0uNzIuODQtMS42MSAxLjQxdC0xLjg2LjkxLTEuOTguNDgtMS45NS4xNHEtMS44NyAwLTMuNDgtLjYydC0yLjgtMS44NHEtMS4xOS0xLjIxLTEuODgtMy4wMS0uNjgtMS43OS0uNjgtNC4xNSAwLTEuODQuNi0zLjQ2LjU5LTEuNjIgMS43LTIuODJ0Mi43Mi0xLjlxMS42LS43IDMuNjEtLjcgMS43IDAgMy4xMy41NSAxLjQ0LjU0IDIuNDcgMS41OHQxLjYyIDIuNTZxLjU4IDEuNTEuNTggMy40NSAwIC45OC0uMiAxLjMyLS4yMi4zNC0uODEuMzRtMTAuMjQgOC43MnEtMi4zNSAwLTMuNi0xLjMydC0xLjI1LTMuNjV2LTEwLjAzaC0xLjg0cS0uMzUgMC0uNTktLjIzLS4yNS0uMjItLjI1LS42OHYtMS43MWwyLjg5LS40OC45MS00LjlxLjA5LS4zNS4zMy0uNTQuMjUtLjE5LjYzLS4xOWgyLjI0djUuNjVoNC44djMuMDhoLTQuOHY5LjczcTAgLjg0LjQxIDEuMzEuNDIuNDggMS4xMy40OC40MSAwIC42OC0uMXQuNDctLjJsLjM2LS4ycS4xNS0uMS4zMS0uMS4yIDAgLjMyLjEuMTIuMDkuMjYuMjlsMS4zIDIuMXEtLjk1Ljc4LTIuMTggMS4xOS0xLjIyLjQtMi41My40bTI1Ljg2LTI1LjU5djE2LjMxcTAgMi4xNC0uNTIgMy44NS0uNTMgMS43Mi0xLjU3IDIuOTMtMS4wNCAxLjItMi42IDEuODUtMS41NS42NS0zLjYyLjY1LS45NCAwLTEuODUtLjExLS45Mi0uMTItMS45MS0uMzYuMDUtLjcuMTItMS40dC4xMi0xLjRxLjA2LS4zOS4zMS0uNjIuMjUtLjI0LjczLS4yNC4yOSAwIC43Ny4xMi40OS4xMiAxLjIyLjEyIDEgMCAxLjc3LS4yOC43Ny0uMjkgMS4yOC0uOTIuNTItLjYzLjc4LTEuNjQuMjctMS4wMS4yNy0yLjQ0di0xNi40MnptMTIuNjYgNy4wN3ExLjk5IDAgMy42My42NSAxLjYzLjY1IDIuOCAxLjg0IDEuMTYgMS4xOSAxLjc5IDIuOS42MyAxLjcyLjYzIDMuODQgMCAyLjEzLS42MyAzLjg1LS42MyAxLjcxLTEuNzkgMi45Mi0xLjE3IDEuMjEtMi44IDEuODUtMS42NC42NS0zLjYzLjY1LTIuMDIgMC0zLjY2LS42NS0xLjY1LS42NC0yLjgxLTEuODV0LTEuOC0yLjkycS0uNjQtMS43Mi0uNjQtMy44NSAwLTIuMTIuNjQtMy44NC42NC0xLjcxIDEuOC0yLjl0Mi44MS0xLjg0cTEuNjQtLjY1IDMuNjYtLjY1bTAgMTUuMThxMi4yMyAwIDMuMzEtMS41MSAxLjA4LTEuNSAxLjA4LTQuNDEgMC0yLjktMS4wOC00LjQzLTEuMDgtMS41Mi0zLjMxLTEuNTItMi4yOCAwLTMuMzcgMS41My0xLjEgMS41My0xLjEgNC40MnQxLjEgNC40cTEuMDkgMS41MiAzLjM3IDEuNTJtMjMuMzEtMTQuOWg0LjMydjE3Ljk2aC0yLjY0cS0uODYgMC0xLjA5LS43OWwtLjMtMS40M3EtMS4xIDEuMTItMi40MyAxLjgxdC0zLjEzLjY5cS0xLjQ3IDAtMi42LS41dC0xLjktMS40MS0xLjE2LTIuMTZxLS40LTEuMjUtLjQtMi43NnYtMTEuNDFoNC4zM3YxMS40MXEwIDEuNjUuNzYgMi41NXQyLjI4LjlxMS4xMiAwIDIuMS0uNXQxLjg2LTEuMzd6bTEyLjQgMS4wOS4yNyAyLjAzcS44NC0xLjYxIDEuOTktMi41MyAxLjE2LS45MiAyLjczLS45MiAxLjI0IDAgMiAuNTRsLS4yOCAzLjI0cS0uMDkuMzItLjI2LjQ1dC0uNDQuMTMtLjc4LS4wOXEtLjUyLS4wOS0xLjAxLS4wOS0uNzIgMC0xLjI4LjIxdC0xIC42MXEtLjQ1LjM5LS43OS45NXQtLjY0IDEuMjh2MTEuMDZoLTQuMzJ2LTE3Ljk2aDIuNTRxLjY2IDAgLjkyLjI0LjI3LjI0LjM1Ljg1bTEyLjk5LS4zLjMgMS40MnEuNTQtLjU0IDEuMTQtMS4wMS42MS0uNDYgMS4yOC0uNzguNjctLjMzIDEuNDQtLjUxLjc3LS4xOSAxLjY4LS4xOSAxLjQ3IDAgMi42MS41dDEuOSAxLjQgMS4xNSAyLjE2cS40IDEuMjUuNCAyLjc1djExLjQzaC00LjMydi0xMS40M3EwLTEuNjQtLjc2LTIuNTQtLjc1LS45MS0yLjI5LS45MS0xLjEyIDAtMi4xLjUxdC0xLjg1IDEuMzh2MTIuOTloLTQuMzN2LTE3Ljk2aDIuNjVxLjg0IDAgMS4xLjc5bTI1LjQ4IDEyLjUzdi0zLjAzcS0xLjg3LjA5LTMuMTUuMzMtMS4yOC4yMy0yLjA1LjZ0LTEuMS44Ni0uMzMgMS4wN3EwIDEuMTMuNjcgMS42MnQxLjc2LjQ5cTEuMzMgMCAyLjMtLjQ4dDEuOS0xLjQ2bS05LjE0LTkuNDMtLjc3LTEuMzhxMy4xLTIuODQgNy40Ni0yLjg0IDEuNTcgMCAyLjgyLjUyIDEuMjQuNTEgMi4xIDEuNDMuODUuOTIgMS4zIDIuMnQuNDUgMi44djExLjM0aC0xLjk2cS0uNjIgMC0uOTUtLjE4LS4zMy0uMTktLjUyLS43NWwtLjM5LTEuMjlxLS42OC42MS0xLjMzIDEuMDctLjY1LjQ3LTEuMzUuNzgtLjcuMzItMS40OS40OC0uOC4xNy0xLjc2LjE3LTEuMTQgMC0yLjEtLjMxLS45Ni0uMy0xLjY2LS45Mi0uNy0uNjEtMS4wOS0xLjUyLS4zOC0uOTEtLjM4LTIuMTIgMC0uNjguMjItMS4zNS4yMy0uNjguNzUtMS4yOS41MS0uNjEgMS4zNC0xLjE1LjgyLS41NSAyLjAyLS45NXQyLjc5LS42NXExLjU5LS4yNiAzLjY0LS4zMXYtMS4wNXEwLTEuOC0uNzctMi42N3QtMi4yMi0uODdxLTEuMDUgMC0xLjc1LjI1LS42OS4yNC0xLjIxLjU1LS41My4zMS0uOTYuNTUtLjQyLjI1LS45NS4yNS0uNDUgMC0uNzctLjI0LS4zMS0uMjQtLjUxLS41NW0xNy40Ny0xMS45NGg0LjMydjI2LjAxaC00LjMyeiIvPjwvc3ZnPg==",
             "source": "The Wall Street Journal",
             "date": "2026-01-02"
         },
@@ -176,12 +176,66 @@
     "hypeVsReality": {
         "shillerPE": {
             "label": "Shiller P/E Ratio",
-            "value": "40.23",
+            "value": "40.37",
             "date": "Jan 2026",
-            "change": "+0.29",
+            "change": "+3.23",
             "trend": "up",
-            "description": "Indicates that the market is considered highly overvalued from a long-term historical perspective. This value is more than double the historical average.",
-            "dataSource": ""
+            "description": "Indicates that the market is considered highly overvalued from a long-term historical perspective. This value is more than double the historical average. Change refers to the absolute change from a year ago.",
+            "dataSource": "https://www.multpl.com/shiller-pe",
+            "historicalData": [
+                {
+                    "date": "Jan 25",
+                    "value": 37.14
+                },
+                {
+                    "date": "Feb 25",
+                    "value": 37.19
+                },
+                {
+                    "date": "Mar 25",
+                    "value": 34.79
+                },
+                {
+                    "date": "Apr 25",
+                    "value": 32.63
+                },
+                {
+                    "date": "May 25",
+                    "value": 35.08
+                },
+                {
+                    "date": "Jun 25",
+                    "value": 36.12
+                },
+                {
+                    "date": "Jul 25",
+                    "value": 37.48
+                },
+                {
+                    "date": "Aug 25",
+                    "value": 37.96
+                },
+                {
+                    "date": "Sep 25",
+                    "value": 38.81
+                },
+                {
+                    "date": "Oct 25",
+                    "value": 39.66
+                },
+                {
+                    "date": "Nov 25",
+                    "value": 39.63
+                },
+                {
+                    "date": "Dec 25",
+                    "value": 40.19
+                },
+                {
+                    "date": "Jan 26",
+                    "value": 40.37
+                }
+            ]
         },
         "metrics": [
             {
@@ -191,9 +245,63 @@
                 "change": "+134%",
                 "trend": "up",
                 "icon": "memoryStick",
-                "description": "average price for DDR4 16GB kit (2x8GB) 3200 RAM compared to a year ago.",
-                "disclaimer": "Current average price of DDR4 16GB kit (2x8GB) 3200 RAM.",
-                "dataSource": ""
+                "description": "average consumer price for DDR4 16GB kit (2x8GB) 3200 RAM. Change refers to the percentage change from a year ago.",
+                "disclaimer": "Current average consumer price of DDR4 16GB kit (2x8GB) 3200 RAM.",
+                "dataSource": "",
+                "historicalData": [
+                    {
+                        "date": "Jan 25",
+                        "value": 50.0
+                    },
+                    {
+                        "date": "Feb 25",
+                        "value": 50.0
+                    },
+                    {
+                        "date": "Mar 25",
+                        "value": 50.0
+                    },
+                    {
+                        "date": "Apr 25",
+                        "value": 50.0
+                    },
+                    {
+                        "date": "May 25",
+                        "value": 50.0
+                    },
+                    {
+                        "date": "Jun 25",
+                        "value": 50.0
+                    },
+                    {
+                        "date": "Jul 25",
+                        "value": 70.0
+                    },
+                    {
+                        "date": "Aug 25",
+                        "value": 72.0
+                    },
+                    {
+                        "date": "Sep 25",
+                        "value": 72.0
+                    },
+                    {
+                        "date": "Oct 25",
+                        "value": 75.0
+                    },
+                    {
+                        "date": "Nov 25",
+                        "value": 82.0
+                    },
+                    {
+                        "date": "Dec 25",
+                        "value": 110.0
+                    },
+                    {
+                        "date": "Jan 26",
+                        "value": 117.0
+                    }
+                ]
             },
             {
                 "id": "jobCuts",
@@ -202,20 +310,194 @@
                 "change": "-6,138",
                 "trend": "down",
                 "icon": "briefcase",
-                "description": "jobs cut in the US last month due to AI according to Challenger, Gray & Christmas's December report.",
+                "description": "jobs cut in the US last month due to AI according to Challenger, Gray & Christmas's Year-End report. Last year, the total number of job cuts due to AI was 54,836. Change refers to the absolute change from a month ago.",
                 "disclaimer": "Monthly number of jobs cut where Artificial Intelligence (AI) was cited as the reason.",
-                "dataSource": "Challenger, Gray & Christmas. https://www.challengergray.com/blog/challenger-report-71321-job-cuts-on-restructurings-closings-economy/ https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/"
+                "dataSource": "Challenger, Gray & Christmas. https://www.challengergray.com/blog/ https://www.challengergray.com/blog/2025-year-end-challenger-report-highest-q4-layoffs-since-2008-lowest-ytd-hiring-since-2010/",
+                "historicalData": [
+                    {
+                        "date": "May 25",
+                        "value": 20000.0
+                    },
+                    {
+                        "date": "Jun 25",
+                        "value": 75.0
+                    },
+                    {
+                        "date": "Jul 25",
+                        "value": 10375.0
+                    },
+                    {
+                        "date": "Aug 25",
+                        "value": 0.0
+                    },
+                    {
+                        "date": "Sep 25",
+                        "value": 7000.0
+                    },
+                    {
+                        "date": "Oct 25",
+                        "value": 31039.0
+                    },
+                    {
+                        "date": "Nov 25",
+                        "value": 6280.0
+                    },
+                    {
+                        "date": "Dec 26",
+                        "value": 142.0
+                    }
+                ]
             },
             {
                 "id": "investments",
                 "label": "Investments in AI",
-                "value": "$252.3 billion",
+                "value": "$252.33 billion",
                 "change": "+25.5%",
                 "trend": "up",
                 "icon": "landmark",
                 "description": "in global corporate AI investment last year, according to Stanford University's Artificial Intelligence Report 2025.",
                 "disclaimer": "Trend in global corporate AI investment including mergers and acquisitions, minority stakes, private investments, and public offerings.",
-                "dataSource": "Artificial Intelligence Index Report 2025. https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf"
+                "dataSource": "Artificial Intelligence Index Report 2025. https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf",
+                "historicalData": [
+                    {
+                        "date": "2013",
+                        "value": 1.457E10
+                    },
+                    {
+                        "date": "2014",
+                        "value": 1.904E10
+                    },
+                    {
+                        "date": "2015",
+                        "value": 2.543E10
+                    },
+                    {
+                        "date": "2016",
+                        "value": 3.382E10
+                    },
+                    {
+                        "date": "2017",
+                        "value": 5.372E10
+                    },
+                    {
+                        "date": "2018",
+                        "value": 7.962E10
+                    },
+                    {
+                        "date": "2019",
+                        "value": 1.0327E11
+                    },
+                    {
+                        "date": "2020",
+                        "value": 2.2187E11
+                    },
+                    {
+                        "date": "2021",
+                        "value": 3.6073E11
+                    },
+                    {
+                        "date": "2022",
+                        "value": 2.5325E11
+                    },
+                    {
+                        "date": "2023",
+                        "value": 2.01E11
+                    },
+                    {
+                        "date": "2024",
+                        "value": 2.5233E11
+                    }
+                ]
+            },
+            {
+                "id": "mag7",
+                "label": "Magnificent 7",
+                "value": "34.29%",
+                "change": "-0.07",
+                "trend": "down",
+                "icon": "chartPie",
+                "description": "of S&P 500 is made up of the Mag 7 companies in the S&P 500 - Apple, Microsoft, Alphabet, Amazon, Nvidia, Meta, and Tesla. Change refers to the percentage point change from a year ago.",
+                "disclaimer": "The Magnificent Seven was coined by Michael Hartnett of Bank of America in 2023 to describe the handful of tech giants driving the market's recovery. Historically, it replaced the FAANG era, reflecting a shift where companies like Nvidia and Microsoft became more influential than former leaders like Netflix. Stock market concentration occurs when these few names represent a disproportionate share of an index, meaning the broader market's health is increasingly tied to the success of just seven firms rather than the hundreds of others.",
+                "dataSource": "Calculated from data available at https://www.slickcharts.com/sp500 and https://www.fool.com/research/magnificent-seven-sp-500/.",
+                "historicalData": [
+                    {
+                        "date": "2015",
+                        "value": 12.29
+                    },
+                    {
+                        "date": "2016",
+                        "value": 12.44
+                    },
+                    {
+                        "date": "2017",
+                        "value": 15.35
+                    },
+                    {
+                        "date": "2018",
+                        "value": 16.67
+                    },
+                    {
+                        "date": "2019",
+                        "value": 19.1
+                    },
+                    {
+                        "date": "2020",
+                        "value": 26.81
+                    },
+                    {
+                        "date": "2021",
+                        "value": 29.21
+                    },
+                    {
+                        "date": "2022",
+                        "value": 21.5
+                    },
+                    {
+                        "date": "2023",
+                        "value": 30.0
+                    },
+                    {
+                        "date": "2024",
+                        "value": 35.34
+                    },
+                    {
+                        "date": "2025",
+                        "value": 34.36
+                    }
+                ]
+            },
+            {
+                "id": "profits",
+                "label": "Corporate Profits",
+                "value": "$4.1 trillion",
+                "change": "+9.05%",
+                "trend": "up",
+                "icon": "dollarSign",
+                "description": "in corporate profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj) last quarter. Change refers to the percentage change from a year ago.",
+                "disclaimer": "Corporate Profits with IVA and CCAdj represents \"profits from current production\" stripping away the distorting \"paper gains\" caused by inflation and inconsistent tax accounting. By adjusting for the actual replacement cost of inventory (IVA) and the real-world wear-and-tear of equipment (CCAdj), this metric reveals the true productivity and health of the corporate sector. For the stock market, this serves as a reality check: while reported earnings-per-share can be inflated by stock buybacks or accounting tricks, this adjusted figure tracks the fundamental ability of firms to generate value. When these \"economic\" profits stagnate while stock prices continue to climb, it often signals that the market is overextended and overdue for a correction.",
+                "dataSource": "U.S. Bureau of Economic Analysis, Corporate Profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj) [CPROFIT], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CPROFIT.",
+                "historicalData": [
+                    {
+                        "date": "2024 Q3",
+                        "value": 3.755734E12
+                    },
+                    {
+                        "date": "2024 Q4",
+                        "value": 3.970626E12
+                    },
+                    {
+                        "date": "2025 Q1",
+                        "value": 3.922871E12
+                    },
+                    {
+                        "date": "2025 Q2",
+                        "value": 3.929611E12
+                    },
+                    {
+                        "date": "2025 Q3",
+                        "value": 4.095713E12
+                    }
+                ]
             }
         ]
     }
