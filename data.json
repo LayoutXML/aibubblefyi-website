@@ -1,7 +1,7 @@
 {
-    "lastUpdated": "2026-01-11T19:18:05.269950Z",
+    "lastUpdated": "2026-01-13T23:18:15.818269Z",
     "bubbleStatus": {
-        "percentageChange": "+17.7%",
+        "percentageChange": "+19.3%",
         "status": "HYPE IS GROWING",
         "subStatus": "Exceptional increase",
         "description": "Current metrics align with a period of sustained market optimism. Capital continues to flow into infrastructure, and valuations remain elevated relative to long-term historical averages.",
@@ -14,26 +14,26 @@
             {
                 "symbol": "NVDA",
                 "name": "NVIDIA Corporation",
-                "price": 184.825,
-                "change": 44.714999999999975,
-                "changePercent": 31.914210263364478,
-                "previousClose": 140.11
+                "price": 185.81,
+                "change": 52.58000000000001,
+                "changePercent": 39.4655858290175,
+                "previousClose": 133.23
             },
             {
                 "symbol": "MSFT",
                 "name": "Microsoft Corporation",
-                "price": 479.28,
-                "change": 54.71999999999997,
-                "changePercent": 12.888637648388912,
-                "previousClose": 424.56
+                "price": 470.67,
+                "change": 53.48000000000002,
+                "changePercent": 12.819099211390498,
+                "previousClose": 417.19
             },
             {
                 "symbol": "GOOGL",
                 "name": "Alphabet Inc.",
-                "price": 328.57,
-                "change": 134.62,
-                "changePercent": 69.40964166022171,
-                "previousClose": 193.95
+                "price": 335.97,
+                "change": 144.96000000000004,
+                "changePercent": 75.89131459085914,
+                "previousClose": 191.01
             },
             {
                 "symbol": "OPENAI",
@@ -51,52 +51,52 @@
             {
                 "symbol": "HYFT",
                 "name": "MindWalk Holdings Corp.",
-                "price": 2.72,
-                "change": 2.176,
-                "changePercent": 400.0,
-                "previousClose": 0.544
+                "price": 2.44,
+                "change": 1.919,
+                "changePercent": 368.33013435700576,
+                "previousClose": 0.521
+            },
+            {
+                "symbol": "OSS",
+                "name": "One Stop Systems, Inc.",
+                "price": 11.3,
+                "change": 8.200000000000001,
+                "changePercent": 264.5161290322581,
+                "previousClose": 3.1
             },
             {
                 "symbol": "MU",
                 "name": "Micron Technology, Inc.",
-                "price": 345.09,
-                "change": 245.67999999999998,
-                "changePercent": 247.1381148777789,
-                "previousClose": 99.41
-            },
-            {
-                "symbol": "SYM",
-                "name": "Symbotic Inc.",
-                "price": 70.82,
-                "change": 44.36999999999999,
-                "changePercent": 167.75047258979203,
-                "previousClose": 26.45
+                "price": 338.13,
+                "change": 243.07,
+                "changePercent": 255.70166210814222,
+                "previousClose": 95.06
             }
         ],
         "losers": [
             {
-                "symbol": "KITT",
-                "name": "Nauticus Robotics, Inc.",
-                "price": 0.9015,
-                "change": -25.378500000000003,
-                "changePercent": -96.56963470319636,
-                "previousClose": 26.28
-            },
-            {
                 "symbol": "VERS.NE",
                 "name": "VERSES AI INC. SUBORDINATE VOTI",
-                "price": 2.25,
-                "change": -45.27,
-                "changePercent": -95.26515151515152,
-                "previousClose": 47.52
+                "price": 2.08,
+                "change": -44.63,
+                "changePercent": -95.54699207878399,
+                "previousClose": 46.71
+            },
+            {
+                "symbol": "KITT",
+                "name": "Nauticus Robotics, Inc.",
+                "price": 0.89,
+                "change": -17.74,
+                "changePercent": -95.22275899087494,
+                "previousClose": 18.63
             },
             {
                 "symbol": "ORKT",
                 "name": "Orangekloud Technology Inc.",
-                "price": 0.784,
-                "change": -12.415999999999999,
-                "changePercent": -94.06060606060606,
-                "previousClose": 13.2
+                "price": 0.7868,
+                "change": -12.3332,
+                "changePercent": -94.0030487804878,
+                "previousClose": 13.12
             }
         ],
         "comparedTo": "a year ago"
@@ -181,58 +181,1738 @@
             "change": "+3.23",
             "trend": "up",
             "description": "Indicates that the market is considered highly overvalued from a long-term historical perspective. This value is more than double the historical average. Change refers to the absolute change from a year ago.",
-            "dataSource": "https://www.multpl.com/shiller-pe",
+            "dataSource": "https://www.multpl.com/shiller-pe and other sources",
             "historicalData": [
                 {
-                    "date": "Jan 25",
+                    "date": "Jan 1990",
+                    "value": 16.56
+                },
+                {
+                    "date": "Feb 1990",
+                    "value": 16.84
+                },
+                {
+                    "date": "Mar 1990",
+                    "value": 16.91
+                },
+                {
+                    "date": "Apr 1990",
+                    "value": 17.45
+                },
+                {
+                    "date": "May 1990",
+                    "value": 17.89
+                },
+                {
+                    "date": "Jun 1990",
+                    "value": 17.77
+                },
+                {
+                    "date": "Jul 1990",
+                    "value": 16.18
+                },
+                {
+                    "date": "Aug 1990",
+                    "value": 15.33
+                },
+                {
+                    "date": "Sep 1990",
+                    "value": 14.85
+                },
+                {
+                    "date": "Oct 1990",
+                    "value": 15.28
+                },
+                {
+                    "date": "Nov 1990",
+                    "value": 15.94
+                },
+                {
+                    "date": "Dec 1990",
+                    "value": 15.64
+                },
+                {
+                    "date": "Jan 1991",
+                    "value": 17.39
+                },
+                {
+                    "date": "Feb 1991",
+                    "value": 17.82
+                },
+                {
+                    "date": "Mar 1991",
+                    "value": 18.23
+                },
+                {
+                    "date": "Apr 1991",
+                    "value": 18.08
+                },
+                {
+                    "date": "May 1991",
+                    "value": 18.03
+                },
+                {
+                    "date": "Jun 1991",
+                    "value": 18.11
+                },
+                {
+                    "date": "Jul 1991",
+                    "value": 18.58
+                },
+                {
+                    "date": "Aug 1991",
+                    "value": 18.43
+                },
+                {
+                    "date": "Sep 1991",
+                    "value": 18.4
+                },
+                {
+                    "date": "Oct 1991",
+                    "value": 18.33
+                },
+                {
+                    "date": "Nov 1991",
+                    "value": 18.47
+                },
+                {
+                    "date": "Dec 1991",
+                    "value": 19.8
+                },
+                {
+                    "date": "Jan 1992",
+                    "value": 19.63
+                },
+                {
+                    "date": "Feb 1992",
+                    "value": 19.34
+                },
+                {
+                    "date": "Mar 1992",
+                    "value": 19.31
+                },
+                {
+                    "date": "Apr 1992",
+                    "value": 19.71
+                },
+                {
+                    "date": "May 1992",
+                    "value": 19.37
+                },
+                {
+                    "date": "Jun 1992",
+                    "value": 19.64
+                },
+                {
+                    "date": "Jul 1992",
+                    "value": 19.74
+                },
+                {
+                    "date": "Aug 1992",
+                    "value": 19.71
+                },
+                {
+                    "date": "Sep 1992",
+                    "value": 19.39
+                },
+                {
+                    "date": "Oct 1992",
+                    "value": 19.88
+                },
+                {
+                    "date": "Nov 1992",
+                    "value": 20.48
+                },
+                {
+                    "date": "Dec 1992",
+                    "value": 20.37
+                },
+                {
+                    "date": "Jan 1993",
+                    "value": 20.59
+                },
+                {
+                    "date": "Feb 1993",
+                    "value": 20.93
+                },
+                {
+                    "date": "Mar 1993",
+                    "value": 20.55
+                },
+                {
+                    "date": "Apr 1993",
+                    "value": 20.58
+                },
+                {
+                    "date": "May 1993",
+                    "value": 20.66
+                },
+                {
+                    "date": "Jun 1993",
+                    "value": 20.59
+                },
+                {
+                    "date": "Jul 1993",
+                    "value": 20.89
+                },
+                {
+                    "date": "Aug 1993",
+                    "value": 21.07
+                },
+                {
+                    "date": "Sep 1993",
+                    "value": 21.17
+                },
+                {
+                    "date": "Oct 1993",
+                    "value": 21.13
+                },
+                {
+                    "date": "Nov 1993",
+                    "value": 21.21
+                },
+                {
+                    "date": "Dec 1993",
+                    "value": 21.51
+                },
+                {
+                    "date": "Jan 1994",
+                    "value": 21.31
+                },
+                {
+                    "date": "Feb 1994",
+                    "value": 20.9
+                },
+                {
+                    "date": "Mar 1994",
+                    "value": 20.08
+                },
+                {
+                    "date": "Apr 1994",
+                    "value": 20.2
+                },
+                {
+                    "date": "May 1994",
+                    "value": 20.3
+                },
+                {
+                    "date": "Jun 1994",
+                    "value": 20.15
+                },
+                {
+                    "date": "Jul 1994",
+                    "value": 20.56
+                },
+                {
+                    "date": "Aug 1994",
+                    "value": 20.58
+                },
+                {
+                    "date": "Sep 1994",
+                    "value": 20.46
+                },
+                {
+                    "date": "Oct 1994",
+                    "value": 20.27
+                },
+                {
+                    "date": "Nov 1994",
+                    "value": 19.96
+                },
+                {
+                    "date": "Dec 1994",
+                    "value": 20.32
+                },
+                {
+                    "date": "Jan 1995",
+                    "value": 20.89
+                },
+                {
+                    "date": "Feb 1995",
+                    "value": 21.18
+                },
+                {
+                    "date": "Mar 1995",
+                    "value": 21.68
+                },
+                {
+                    "date": "Apr 1995",
+                    "value": 22.29
+                },
+                {
+                    "date": "May 1995",
+                    "value": 22.76
+                },
+                {
+                    "date": "Jun 1995",
+                    "value": 23.45
+                },
+                {
+                    "date": "Jul 1995",
+                    "value": 23.33
+                },
+                {
+                    "date": "Aug 1995",
+                    "value": 23.95
+                },
+                {
+                    "date": "Sep 1995",
+                    "value": 24.01
+                },
+                {
+                    "date": "Oct 1995",
+                    "value": 24.38
+                },
+                {
+                    "date": "Nov 1995",
+                    "value": 25.13
+                },
+                {
+                    "date": "Dec 1995",
+                    "value": 24.83
+                },
+                {
+                    "date": "Jan 1996",
+                    "value": 25.98
+                },
+                {
+                    "date": "Feb 1996",
+                    "value": 25.69
+                },
+                {
+                    "date": "Mar 1996",
+                    "value": 25.46
+                },
+                {
+                    "date": "Apr 1996",
+                    "value": 25.91
+                },
+                {
+                    "date": "May 1996",
+                    "value": 26.02
+                },
+                {
+                    "date": "Jun 1996",
+                    "value": 24.89
+                },
+                {
+                    "date": "Jul 1996",
+                    "value": 25.46
+                },
+                {
+                    "date": "Aug 1996",
+                    "value": 25.74
+                },
+                {
+                    "date": "Sep 1996",
+                    "value": 26.51
+                },
+                {
+                    "date": "Oct 1996",
+                    "value": 27.6
+                },
+                {
+                    "date": "Nov 1996",
+                    "value": 27.75
+                },
+                {
+                    "date": "Dec 1996",
+                    "value": 28.39
+                },
+                {
+                    "date": "Jan 1997",
+                    "value": 29.28
+                },
+                {
+                    "date": "Feb 1997",
+                    "value": 28.84
+                },
+                {
+                    "date": "Mar 1997",
+                    "value": 27.59
+                },
+                {
+                    "date": "Apr 1997",
+                    "value": 29.95
+                },
+                {
+                    "date": "May 1997",
+                    "value": 31.3
+                },
+                {
+                    "date": "Jun 1997",
+                    "value": 32.85
+                },
+                {
+                    "date": "Jul 1997",
+                    "value": 32.61
+                },
+                {
+                    "date": "Aug 1997",
+                    "value": 32.72
+                },
+                {
+                    "date": "Sep 1997",
+                    "value": 32.91
+                },
+                {
+                    "date": "Oct 1997",
+                    "value": 32.37
+                },
+                {
+                    "date": "Nov 1997",
+                    "value": 33.1
+                },
+                {
+                    "date": "Dec 1997",
+                    "value": 32.94
+                },
+                {
+                    "date": "Jan 1998",
+                    "value": 34.72
+                },
+                {
+                    "date": "Feb 1998",
+                    "value": 36.32
+                },
+                {
+                    "date": "Mar 1998",
+                    "value": 37.3
+                },
+                {
+                    "date": "Apr 1998",
+                    "value": 37.0
+                },
+                {
+                    "date": "May 1998",
+                    "value": 36.81
+                },
+                {
+                    "date": "Jun 1998",
+                    "value": 38.35
+                },
+                {
+                    "date": "Jul 1998",
+                    "value": 35.51
+                },
+                {
+                    "date": "Aug 1998",
+                    "value": 33.54
+                },
+                {
+                    "date": "Sep 1998",
+                    "value": 33.81
+                },
+                {
+                    "date": "Oct 1998",
+                    "value": 37.4
+                },
+                {
+                    "date": "Nov 1998",
+                    "value": 38.83
+                },
+                {
+                    "date": "Dec 1998",
+                    "value": 40.65
+                },
+                {
+                    "date": "Jan 1999",
+                    "value": 40.4
+                },
+                {
+                    "date": "Feb 1999",
+                    "value": 41.39
+                },
+                {
+                    "date": "Mar 1999",
+                    "value": 42.77
+                },
+                {
+                    "date": "Apr 1999",
+                    "value": 42.58
+                },
+                {
+                    "date": "May 1999",
+                    "value": 42.21
+                },
+                {
+                    "date": "Jun 1999",
+                    "value": 43.83
+                },
+                {
+                    "date": "Jul 1999",
+                    "value": 41.98
+                },
+                {
+                    "date": "Aug 1999",
+                    "value": 41.42
+                },
+                {
+                    "date": "Sep 1999",
+                    "value": 40.62
+                },
+                {
+                    "date": "Oct 1999",
+                    "value": 43.28
+                },
+                {
+                    "date": "Nov 1999",
+                    "value": 44.27
+                },
+                {
+                    "date": "Dec 1999",
+                    "value": 43.82
+                },
+                {
+                    "date": "Jan 2000",
+                    "value": 42.18
+                },
+                {
+                    "date": "Feb 2000",
+                    "value": 43.28
+                },
+                {
+                    "date": "Mar 2000",
+                    "value": 43.62
+                },
+                {
+                    "date": "Apr 2000",
+                    "value": 41.97
+                },
+                {
+                    "date": "May 2000",
+                    "value": 42.8
+                },
+                {
+                    "date": "Jun 2000",
+                    "value": 42.76
+                },
+                {
+                    "date": "Jul 2000",
+                    "value": 42.96
+                },
+                {
+                    "date": "Aug 2000",
+                    "value": 41.96
+                },
+                {
+                    "date": "Sep 2000",
+                    "value": 39.44
+                },
+                {
+                    "date": "Oct 2000",
+                    "value": 38.88
+                },
+                {
+                    "date": "Nov 2000",
+                    "value": 37.3
+                },
+                {
+                    "date": "Dec 2000",
+                    "value": 37.02
+                },
+                {
+                    "date": "Jan 2001",
+                    "value": 35.87
+                },
+                {
+                    "date": "Feb 2001",
+                    "value": 32.36
+                },
+                {
+                    "date": "Mar 2001",
+                    "value": 32.27
+                },
+                {
+                    "date": "Apr 2001",
+                    "value": 34.12
+                },
+                {
+                    "date": "May 2001",
+                    "value": 33.09
+                },
+                {
+                    "date": "Jun 2001",
+                    "value": 32.23
+                },
+                {
+                    "date": "Jul 2001",
+                    "value": 31.47
+                },
+                {
+                    "date": "Aug 2001",
+                    "value": 27.7
+                },
+                {
+                    "date": "Sep 2001",
+                    "value": 28.67
+                },
+                {
+                    "date": "Oct 2001",
+                    "value": 30.05
+                },
+                {
+                    "date": "Nov 2001",
+                    "value": 30.51
+                },
+                {
+                    "date": "Dec 2001",
+                    "value": 30.3
+                },
+                {
+                    "date": "Jan 2002",
+                    "value": 29.1
+                },
+                {
+                    "date": "Feb 2002",
+                    "value": 30.34
+                },
+                {
+                    "date": "Mar 2002",
+                    "value": 29.07
+                },
+                {
+                    "date": "Apr 2002",
+                    "value": 28.19
+                },
+                {
+                    "date": "May 2002",
+                    "value": 26.48
+                },
+                {
+                    "date": "Jun 2002",
+                    "value": 23.52
+                },
+                {
+                    "date": "Jul 2002",
+                    "value": 23.67
+                },
+                {
+                    "date": "Aug 2002",
+                    "value": 22.38
+                },
+                {
+                    "date": "Sep 2002",
+                    "value": 22.02
+                },
+                {
+                    "date": "Oct 2002",
+                    "value": 23.35
+                },
+                {
+                    "date": "Nov 2002",
+                    "value": 23.12
+                },
+                {
+                    "date": "Dec 2002",
+                    "value": 22.93
+                },
+                {
+                    "date": "Jan 2003",
+                    "value": 21.28
+                },
+                {
+                    "date": "Feb 2003",
+                    "value": 21.41
+                },
+                {
+                    "date": "Mar 2003",
+                    "value": 22.43
+                },
+                {
+                    "date": "Apr 2003",
+                    "value": 23.64
+                },
+                {
+                    "date": "May 2003",
+                    "value": 24.87
+                },
+                {
+                    "date": "Jun 2003",
+                    "value": 24.94
+                },
+                {
+                    "date": "Jul 2003",
+                    "value": 24.73
+                },
+                {
+                    "date": "Aug 2003",
+                    "value": 25.3
+                },
+                {
+                    "date": "Sep 2003",
+                    "value": 25.74
+                },
+                {
+                    "date": "Oct 2003",
+                    "value": 26.02
+                },
+                {
+                    "date": "Nov 2003",
+                    "value": 26.7
+                },
+                {
+                    "date": "Dec 2003",
+                    "value": 27.74
+                },
+                {
+                    "date": "Jan 2004",
+                    "value": 27.69
+                },
+                {
+                    "date": "Feb 2004",
+                    "value": 26.96
+                },
+                {
+                    "date": "Mar 2004",
+                    "value": 26.92
+                },
+                {
+                    "date": "Apr 2004",
+                    "value": 25.96
+                },
+                {
+                    "date": "May 2004",
+                    "value": 26.44
+                },
+                {
+                    "date": "Jun 2004",
+                    "value": 25.74
+                },
+                {
+                    "date": "Jul 2004",
+                    "value": 25.23
+                },
+                {
+                    "date": "Aug 2004",
+                    "value": 25.71
+                },
+                {
+                    "date": "Sep 2004",
+                    "value": 25.49
+                },
+                {
+                    "date": "Oct 2004",
+                    "value": 26.49
+                },
+                {
+                    "date": "Nov 2004",
+                    "value": 27.22
+                },
+                {
+                    "date": "Dec 2004",
+                    "value": 26.65
+                },
+                {
+                    "date": "Jan 2005",
+                    "value": 26.79
+                },
+                {
+                    "date": "Feb 2005",
+                    "value": 26.38
+                },
+                {
+                    "date": "Mar 2005",
+                    "value": 25.41
+                },
+                {
+                    "date": "Apr 2005",
+                    "value": 25.7
+                },
+                {
+                    "date": "May 2005",
+                    "value": 26.11
+                },
+                {
+                    "date": "Jun 2005",
+                    "value": 26.31
+                },
+                {
+                    "date": "Jul 2005",
+                    "value": 26.16
+                },
+                {
+                    "date": "Aug 2005",
+                    "value": 25.79
+                },
+                {
+                    "date": "Sep 2005",
+                    "value": 24.89
+                },
+                {
+                    "date": "Oct 2005",
+                    "value": 25.99
+                },
+                {
+                    "date": "Nov 2005",
+                    "value": 26.51
+                },
+                {
+                    "date": "Dec 2005",
+                    "value": 26.5
+                },
+                {
+                    "date": "Jan 2006",
+                    "value": 26.27
+                },
+                {
+                    "date": "Feb 2006",
+                    "value": 26.36
+                },
+                {
+                    "date": "Mar 2006",
+                    "value": 26.18
+                },
+                {
+                    "date": "Apr 2006",
+                    "value": 25.69
+                },
+                {
+                    "date": "May 2006",
+                    "value": 24.75
+                },
+                {
+                    "date": "Jun 2006",
+                    "value": 24.77
+                },
+                {
+                    "date": "Jul 2006",
+                    "value": 25.09
+                },
+                {
+                    "date": "Aug 2006",
+                    "value": 25.74
+                },
+                {
+                    "date": "Sep 2006",
+                    "value": 26.58
+                },
+                {
+                    "date": "Oct 2006",
+                    "value": 27.0
+                },
+                {
+                    "date": "Nov 2006",
+                    "value": 27.32
+                },
+                {
+                    "date": "Dec 2006",
+                    "value": 27.23
+                },
+                {
+                    "date": "Jan 2007",
+                    "value": 27.32
+                },
+                {
+                    "date": "Feb 2007",
+                    "value": 26.25
+                },
+                {
+                    "date": "Mar 2007",
+                    "value": 26.98
+                },
+                {
+                    "date": "Apr 2007",
+                    "value": 27.6
+                },
+                {
+                    "date": "May 2007",
+                    "value": 27.44
+                },
+                {
+                    "date": "Jun 2007",
+                    "value": 27.48
+                },
+                {
+                    "date": "Jul 2007",
+                    "value": 26.19
+                },
+                {
+                    "date": "Aug 2007",
+                    "value": 26.78
+                },
+                {
+                    "date": "Sep 2007",
+                    "value": 27.38
+                },
+                {
+                    "date": "Oct 2007",
+                    "value": 25.8
+                },
+                {
+                    "date": "Nov 2007",
+                    "value": 26.02
+                },
+                {
+                    "date": "Dec 2007",
+                    "value": 24.02
+                },
+                {
+                    "date": "Jan 2008",
+                    "value": 23.58
+                },
+                {
+                    "date": "Feb 2008",
+                    "value": 22.67
+                },
+                {
+                    "date": "Mar 2008",
+                    "value": 23.41
+                },
+                {
+                    "date": "Apr 2008",
+                    "value": 23.71
+                },
+                {
+                    "date": "May 2008",
+                    "value": 22.48
+                },
+                {
+                    "date": "Jun 2008",
+                    "value": 21.0
+                },
+                {
+                    "date": "Jul 2008",
+                    "value": 21.47
+                },
+                {
+                    "date": "Aug 2008",
+                    "value": 20.39
+                },
+                {
+                    "date": "Sep 2008",
+                    "value": 16.42
+                },
+                {
+                    "date": "Oct 2008",
+                    "value": 15.34
+                },
+                {
+                    "date": "Nov 2008",
+                    "value": 15.41
+                },
+                {
+                    "date": "Dec 2008",
+                    "value": 15.2
+                },
+                {
+                    "date": "Jan 2009",
+                    "value": 14.21
+                },
+                {
+                    "date": "Feb 2009",
+                    "value": 13.39
+                },
+                {
+                    "date": "Mar 2009",
+                    "value": 15.01
+                },
+                {
+                    "date": "Apr 2009",
+                    "value": 16.03
+                },
+                {
+                    "date": "May 2009",
+                    "value": 16.45
+                },
+                {
+                    "date": "Jun 2009",
+                    "value": 16.78
+                },
+                {
+                    "date": "Jul 2009",
+                    "value": 18.19
+                },
+                {
+                    "date": "Aug 2009",
+                    "value": 18.91
+                },
+                {
+                    "date": "Sep 2009",
+                    "value": 19.44
+                },
+                {
+                    "date": "Oct 2009",
+                    "value": 19.82
+                },
+                {
+                    "date": "Nov 2009",
+                    "value": 20.37
+                },
+                {
+                    "date": "Dec 2009",
+                    "value": 20.55
+                },
+                {
+                    "date": "Jan 2010",
+                    "value": 19.93
+                },
+                {
+                    "date": "Feb 2010",
+                    "value": 21.09
+                },
+                {
+                    "date": "Mar 2010",
+                    "value": 21.82
+                },
+                {
+                    "date": "Apr 2010",
+                    "value": 20.57
+                },
+                {
+                    "date": "May 2010",
+                    "value": 19.76
+                },
+                {
+                    "date": "Jun 2010",
+                    "value": 19.75
+                },
+                {
+                    "date": "Jul 2010",
+                    "value": 19.87
+                },
+                {
+                    "date": "Aug 2010",
+                    "value": 20.38
+                },
+                {
+                    "date": "Sep 2010",
+                    "value": 21.28
+                },
+                {
+                    "date": "Oct 2010",
+                    "value": 21.75
+                },
+                {
+                    "date": "Nov 2010",
+                    "value": 22.44
+                },
+                {
+                    "date": "Dec 2010",
+                    "value": 23.02
+                },
+                {
+                    "date": "Jan 2011",
+                    "value": 23.5
+                },
+                {
+                    "date": "Feb 2011",
+                    "value": 22.95
+                },
+                {
+                    "date": "Mar 2011",
+                    "value": 23.17
+                },
+                {
+                    "date": "Apr 2011",
+                    "value": 23.06
+                },
+                {
+                    "date": "May 2011",
+                    "value": 22.12
+                },
+                {
+                    "date": "Jun 2011",
+                    "value": 22.63
+                },
+                {
+                    "date": "Jul 2011",
+                    "value": 20.05
+                },
+                {
+                    "date": "Aug 2011",
+                    "value": 19.76
+                },
+                {
+                    "date": "Sep 2011",
+                    "value": 20.24
+                },
+                {
+                    "date": "Oct 2011",
+                    "value": 20.39
+                },
+                {
+                    "date": "Nov 2011",
+                    "value": 20.53
+                },
+                {
+                    "date": "Dec 2011",
+                    "value": 21.31
+                },
+                {
+                    "date": "Jan 2012",
+                    "value": 21.86
+                },
+                {
+                    "date": "Feb 2012",
+                    "value": 22.15
+                },
+                {
+                    "date": "Mar 2012",
+                    "value": 21.86
+                },
+                {
+                    "date": "Apr 2012",
+                    "value": 21.01
+                },
+                {
+                    "date": "May 2012",
+                    "value": 20.61
+                },
+                {
+                    "date": "Jun 2012",
+                    "value": 21.08
+                },
+                {
+                    "date": "Jul 2012",
+                    "value": 21.46
+                },
+                {
+                    "date": "Aug 2012",
+                    "value": 21.78
+                },
+                {
+                    "date": "Sep 2012",
+                    "value": 21.65
+                },
+                {
+                    "date": "Oct 2012",
+                    "value": 20.96
+                },
+                {
+                    "date": "Nov 2012",
+                    "value": 21.27
+                },
+                {
+                    "date": "Dec 2012",
+                    "value": 21.97
+                },
+                {
+                    "date": "Jan 2013",
+                    "value": 22.07
+                },
+                {
+                    "date": "Feb 2013",
+                    "value": 22.46
+                },
+                {
+                    "date": "Mar 2013",
+                    "value": 22.65
+                },
+                {
+                    "date": "Apr 2013",
+                    "value": 23.44
+                },
+                {
+                    "date": "May 2013",
+                    "value": 22.96
+                },
+                {
+                    "date": "Jun 2013",
+                    "value": 23.54
+                },
+                {
+                    "date": "Jul 2013",
+                    "value": 23.37
+                },
+                {
+                    "date": "Aug 2013",
+                    "value": 23.44
+                },
+                {
+                    "date": "Sep 2013",
+                    "value": 23.87
+                },
+                {
+                    "date": "Oct 2013",
+                    "value": 24.65
+                },
+                {
+                    "date": "Nov 2013",
+                    "value": 24.89
+                },
+                {
+                    "date": "Dec 2013",
+                    "value": 24.89
+                },
+                {
+                    "date": "Jan 2014",
+                    "value": 24.68
+                },
+                {
+                    "date": "Feb 2014",
+                    "value": 25.03
+                },
+                {
+                    "date": "Mar 2014",
+                    "value": 24.84
+                },
+                {
+                    "date": "Apr 2014",
+                    "value": 24.97
+                },
+                {
+                    "date": "May 2014",
+                    "value": 25.6
+                },
+                {
+                    "date": "Jun 2014",
+                    "value": 25.87
+                },
+                {
+                    "date": "Jul 2014",
+                    "value": 25.67
+                },
+                {
+                    "date": "Aug 2014",
+                    "value": 25.97
+                },
+                {
+                    "date": "Sep 2014",
+                    "value": 25.26
+                },
+                {
+                    "date": "Oct 2014",
+                    "value": 26.68
+                },
+                {
+                    "date": "Nov 2014",
+                    "value": 26.83
+                },
+                {
+                    "date": "Dec 2014",
+                    "value": 26.54
+                },
+                {
+                    "date": "Jan 2015",
+                    "value": 27.06
+                },
+                {
+                    "date": "Feb 2015",
+                    "value": 26.74
+                },
+                {
+                    "date": "Mar 2015",
+                    "value": 26.83
+                },
+                {
+                    "date": "Apr 2015",
+                    "value": 26.82
+                },
+                {
+                    "date": "May 2015",
+                    "value": 26.56
+                },
+                {
+                    "date": "Jun 2015",
+                    "value": 26.46
+                },
+                {
+                    "date": "Jul 2015",
+                    "value": 25.73
+                },
+                {
+                    "date": "Aug 2015",
+                    "value": 24.52
+                },
+                {
+                    "date": "Sep 2015",
+                    "value": 25.57
+                },
+                {
+                    "date": "Oct 2015",
+                    "value": 26.26
+                },
+                {
+                    "date": "Nov 2015",
+                    "value": 26.0
+                },
+                {
+                    "date": "Dec 2015",
+                    "value": 24.22
+                },
+                {
+                    "date": "Jan 2016",
+                    "value": 24.07
+                },
+                {
+                    "date": "Feb 2016",
+                    "value": 25.4
+                },
+                {
+                    "date": "Mar 2016",
+                    "value": 26.01
+                },
+                {
+                    "date": "Apr 2016",
+                    "value": 25.76
+                },
+                {
+                    "date": "May 2016",
+                    "value": 25.91
+                },
+                {
+                    "date": "Jun 2016",
+                    "value": 26.74
+                },
+                {
+                    "date": "Jul 2016",
+                    "value": 27.02
+                },
+                {
+                    "date": "Aug 2016",
+                    "value": 26.82
+                },
+                {
+                    "date": "Sep 2016",
+                    "value": 26.54
+                },
+                {
+                    "date": "Oct 2016",
+                    "value": 26.87
+                },
+                {
+                    "date": "Nov 2016",
+                    "value": 27.92
+                },
+                {
+                    "date": "Dec 2016",
+                    "value": 28.13
+                },
+                {
+                    "date": "Jan 2017",
+                    "value": 28.71
+                },
+                {
+                    "date": "Feb 2017",
+                    "value": 29.19
+                },
+                {
+                    "date": "Mar 2017",
+                    "value": 28.99
+                },
+                {
+                    "date": "Apr 2017",
+                    "value": 29.37
+                },
+                {
+                    "date": "May 2017",
+                    "value": 29.81
+                },
+                {
+                    "date": "Jun 2017",
+                    "value": 30.04
+                },
+                {
+                    "date": "Jul 2017",
+                    "value": 30.0
+                },
+                {
+                    "date": "Aug 2017",
+                    "value": 30.25
+                },
+                {
+                    "date": "Sep 2017",
+                    "value": 30.93
+                },
+                {
+                    "date": "Oct 2017",
+                    "value": 31.34
+                },
+                {
+                    "date": "Nov 2017",
+                    "value": 32.17
+                },
+                {
+                    "date": "Dec 2017",
+                    "value": 33.31
+                },
+                {
+                    "date": "Jan 2018",
+                    "value": 32.07
+                },
+                {
+                    "date": "Feb 2018",
+                    "value": 31.85
+                },
+                {
+                    "date": "Mar 2018",
+                    "value": 31.03
+                },
+                {
+                    "date": "Apr 2018",
+                    "value": 31.31
+                },
+                {
+                    "date": "May 2018",
+                    "value": 31.7
+                },
+                {
+                    "date": "Jun 2018",
+                    "value": 31.97
+                },
+                {
+                    "date": "Jul 2018",
+                    "value": 32.43
+                },
+                {
+                    "date": "Aug 2018",
+                    "value": 32.64
+                },
+                {
+                    "date": "Sep 2018",
+                    "value": 31.1
+                },
+                {
+                    "date": "Oct 2018",
+                    "value": 30.23
+                },
+                {
+                    "date": "Nov 2018",
+                    "value": 28.29
+                },
+                {
+                    "date": "Dec 2018",
+                    "value": 28.46
+                },
+                {
+                    "date": "Jan 2019",
+                    "value": 29.63
+                },
+                {
+                    "date": "Feb 2019",
+                    "value": 29.65
+                },
+                {
+                    "date": "Mar 2019",
+                    "value": 30.16
+                },
+                {
+                    "date": "Apr 2019",
+                    "value": 29.3
+                },
+                {
+                    "date": "May 2019",
+                    "value": 29.37
+                },
+                {
+                    "date": "Jun 2019",
+                    "value": 30.0
+                },
+                {
+                    "date": "Jul 2019",
+                    "value": 28.71
+                },
+                {
+                    "date": "Aug 2019",
+                    "value": 29.26
+                },
+                {
+                    "date": "Sep 2019",
+                    "value": 28.93
+                },
+                {
+                    "date": "Oct 2019",
+                    "value": 29.85
+                },
+                {
+                    "date": "Nov 2019",
+                    "value": 30.38
+                },
+                {
+                    "date": "Dec 2019",
+                    "value": 31.05
+                },
+                {
+                    "date": "Jan 2020",
+                    "value": 30.77
+                },
+                {
+                    "date": "Feb 2020",
+                    "value": 24.88
+                },
+                {
+                    "date": "Mar 2020",
+                    "value": 25.95
+                },
+                {
+                    "date": "Apr 2020",
+                    "value": 27.42
+                },
+                {
+                    "date": "May 2020",
+                    "value": 28.84
+                },
+                {
+                    "date": "Jun 2020",
+                    "value": 29.64
+                },
+                {
+                    "date": "Jul 2020",
+                    "value": 31.16
+                },
+                {
+                    "date": "Aug 2020",
+                    "value": 30.89
+                },
+                {
+                    "date": "Sep 2020",
+                    "value": 31.3
+                },
+                {
+                    "date": "Oct 2020",
+                    "value": 32.5
+                },
+                {
+                    "date": "Nov 2020",
+                    "value": 33.83
+                },
+                {
+                    "date": "Dec 2020",
+                    "value": 34.53
+                },
+                {
+                    "date": "Jan 2021",
+                    "value": 35.19
+                },
+                {
+                    "date": "Feb 2021",
+                    "value": 35.12
+                },
+                {
+                    "date": "Mar 2021",
+                    "value": 36.79
+                },
+                {
+                    "date": "Apr 2021",
+                    "value": 36.61
+                },
+                {
+                    "date": "May 2021",
+                    "value": 36.72
+                },
+                {
+                    "date": "Jun 2021",
+                    "value": 37.52
+                },
+                {
+                    "date": "Jul 2021",
+                    "value": 38.01
+                },
+                {
+                    "date": "Aug 2021",
+                    "value": 37.63
+                },
+                {
+                    "date": "Sep 2021",
+                    "value": 37.32
+                },
+                {
+                    "date": "Oct 2021",
+                    "value": 38.59
+                },
+                {
+                    "date": "Nov 2021",
+                    "value": 38.31
+                },
+                {
+                    "date": "Dec 2021",
+                    "value": 36.95
+                },
+                {
+                    "date": "Jan 2022",
+                    "value": 35.36
+                },
+                {
+                    "date": "Feb 2022",
+                    "value": 34.3
+                },
+                {
+                    "date": "Mar 2022",
+                    "value": 33.98
+                },
+                {
+                    "date": "Apr 2022",
+                    "value": 30.76
+                },
+                {
+                    "date": "May 2022",
+                    "value": 29.11
+                },
+                {
+                    "date": "Jun 2022",
+                    "value": 29.02
+                },
+                {
+                    "date": "Jul 2022",
+                    "value": 30.71
+                },
+                {
+                    "date": "Aug 2022",
+                    "value": 28.29
+                },
+                {
+                    "date": "Sep 2022",
+                    "value": 27.11
+                },
+                {
+                    "date": "Oct 2022",
+                    "value": 28.43
+                },
+                {
+                    "date": "Nov 2022",
+                    "value": 28.42
+                },
+                {
+                    "date": "Dec 2022",
+                    "value": 28.36
+                },
+                {
+                    "date": "Jan 2023",
+                    "value": 28.99
+                },
+                {
+                    "date": "Feb 2023",
+                    "value": 27.99
+                },
+                {
+                    "date": "Mar 2023",
+                    "value": 28.84
+                },
+                {
+                    "date": "Apr 2023",
+                    "value": 28.85
+                },
+                {
+                    "date": "May 2023",
+                    "value": 29.99
+                },
+                {
+                    "date": "Jun 2023",
+                    "value": 30.95
+                },
+                {
+                    "date": "Jul 2023",
+                    "value": 30.11
+                },
+                {
+                    "date": "Aug 2023",
+                    "value": 29.86
+                },
+                {
+                    "date": "Sep 2023",
+                    "value": 28.7
+                },
+                {
+                    "date": "Oct 2023",
+                    "value": 30.03
+                },
+                {
+                    "date": "Nov 2023",
+                    "value": 31.48
+                },
+                {
+                    "date": "Dec 2023",
+                    "value": 32.05
+                },
+                {
+                    "date": "Jan 2024",
+                    "value": 33.13
+                },
+                {
+                    "date": "Feb 2024",
+                    "value": 33.83
+                },
+                {
+                    "date": "Mar 2024",
+                    "value": 33.05
+                },
+                {
+                    "date": "Apr 2024",
+                    "value": 33.85
+                },
+                {
+                    "date": "May 2024",
+                    "value": 34.82
+                },
+                {
+                    "date": "Jun 2024",
+                    "value": 35.53
+                },
+                {
+                    "date": "Jul 2024",
+                    "value": 35.11
+                },
+                {
+                    "date": "Aug 2024",
+                    "value": 35.76
+                },
+                {
+                    "date": "Sep 2024",
+                    "value": 36.63
+                },
+                {
+                    "date": "Oct 2024",
+                    "value": 37.45
+                },
+                {
+                    "date": "Nov 2024",
+                    "value": 37.81
+                },
+                {
+                    "date": "Dec 2024",
+                    "value": 37.2
+                },
+                {
+                    "date": "Jan 2025",
                     "value": 37.14
                 },
                 {
-                    "date": "Feb 25",
+                    "date": "Feb 2025",
                     "value": 37.19
                 },
                 {
-                    "date": "Mar 25",
+                    "date": "Mar 2025",
                     "value": 34.79
                 },
                 {
-                    "date": "Apr 25",
+                    "date": "Apr 2025",
                     "value": 32.63
                 },
                 {
-                    "date": "May 25",
+                    "date": "May 2025",
                     "value": 35.08
                 },
                 {
-                    "date": "Jun 25",
+                    "date": "Jun 2025",
                     "value": 36.12
                 },
                 {
-                    "date": "Jul 25",
+                    "date": "Jul 2025",
                     "value": 37.48
                 },
                 {
-                    "date": "Aug 25",
+                    "date": "Aug 2025",
                     "value": 37.96
                 },
                 {
-                    "date": "Sep 25",
+                    "date": "Sep 2025",
                     "value": 38.81
                 },
                 {
-                    "date": "Oct 25",
+                    "date": "Oct 2025",
                     "value": 39.66
                 },
                 {
-                    "date": "Nov 25",
+                    "date": "Nov 2025",
                     "value": 39.63
                 },
                 {
-                    "date": "Dec 25",
+                    "date": "Dec 2025",
                     "value": 40.19
                 },
                 {
-                    "date": "Jan 26",
+                    "date": "Jan 2026",
                     "value": 40.37
                 }
             ]
@@ -413,12 +2093,12 @@
                 "id": "mag7",
                 "label": "Magnificent 7",
                 "value": "34.29%",
-                "change": "-0.07",
+                "change": "-0.07pp",
                 "trend": "down",
                 "icon": "chartPie",
                 "description": "of S&P 500 is made up of the Mag 7 companies in the S&P 500 - Apple, Microsoft, Alphabet, Amazon, Nvidia, Meta, and Tesla. Change refers to the percentage point change from a year ago.",
                 "disclaimer": "The Magnificent Seven was coined by Michael Hartnett of Bank of America in 2023 to describe the handful of tech giants driving the market's recovery. Historically, it replaced the FAANG era, reflecting a shift where companies like Nvidia and Microsoft became more influential than former leaders like Netflix. Stock market concentration occurs when these few names represent a disproportionate share of an index, meaning the broader market's health is increasingly tied to the success of just seven firms rather than the hundreds of others.",
-                "dataSource": "Calculated from data available at https://www.slickcharts.com/sp500 and https://www.fool.com/research/magnificent-seven-sp-500/.",
+                "dataSource": "Calculated from data available at https://www.slickcharts.com/sp500 and https://www.fool.com/research/magnificent-seven-sp-500/",
                 "historicalData": [
                     {
                         "date": "2015",
@@ -473,29 +2153,666 @@
                 "change": "+9.05%",
                 "trend": "up",
                 "icon": "dollarSign",
-                "description": "in corporate profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj) last quarter. Change refers to the percentage change from a year ago.",
+                "description": "in corporate profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj). Change refers to the percentage change from a year ago.",
                 "disclaimer": "Corporate Profits with IVA and CCAdj represents \"profits from current production\" stripping away the distorting \"paper gains\" caused by inflation and inconsistent tax accounting. By adjusting for the actual replacement cost of inventory (IVA) and the real-world wear-and-tear of equipment (CCAdj), this metric reveals the true productivity and health of the corporate sector. For the stock market, this serves as a reality check: while reported earnings-per-share can be inflated by stock buybacks or accounting tricks, this adjusted figure tracks the fundamental ability of firms to generate value. When these \"economic\" profits stagnate while stock prices continue to climb, it often signals that the market is overextended and overdue for a correction.",
-                "dataSource": "U.S. Bureau of Economic Analysis, Corporate Profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj) [CPROFIT], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CPROFIT.",
+                "dataSource": "U.S. Bureau of Economic Analysis, Corporate Profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj) [CPROFIT], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CPROFIT",
                 "historicalData": [
                     {
-                        "date": "2024 Q3",
+                        "date": "Q3 2015",
+                        "value": 2.17167E12
+                    },
+                    {
+                        "date": "Q4 2015",
+                        "value": 2.061454E12
+                    },
+                    {
+                        "date": "Q1 2016",
+                        "value": 2.152042E12
+                    },
+                    {
+                        "date": "Q2 2016",
+                        "value": 2.111552E12
+                    },
+                    {
+                        "date": "Q3 2016",
+                        "value": 2.141288E12
+                    },
+                    {
+                        "date": "Q4 2016",
+                        "value": 2.172364E12
+                    },
+                    {
+                        "date": "Q1 2017",
+                        "value": 2.190228E12
+                    },
+                    {
+                        "date": "Q2 2017",
+                        "value": 2.188025E12
+                    },
+                    {
+                        "date": "Q3 2017",
+                        "value": 2.236674E12
+                    },
+                    {
+                        "date": "Q4 2017",
+                        "value": 2.286037E12
+                    },
+                    {
+                        "date": "Q1 2018",
+                        "value": 2.31084E12
+                    },
+                    {
+                        "date": "Q2 2018",
+                        "value": 2.372926E12
+                    },
+                    {
+                        "date": "Q3 2018",
+                        "value": 2.371399E12
+                    },
+                    {
+                        "date": "Q4 2018",
+                        "value": 2.405504E12
+                    },
+                    {
+                        "date": "Q1 2019",
+                        "value": 2.416436E12
+                    },
+                    {
+                        "date": "Q2 2019",
+                        "value": 2.456629E12
+                    },
+                    {
+                        "date": "Q3 2019",
+                        "value": 2.499116E12
+                    },
+                    {
+                        "date": "Q4 2019",
+                        "value": 2.513104E12
+                    },
+                    {
+                        "date": "Q1 2020",
+                        "value": 2.252456E12
+                    },
+                    {
+                        "date": "Q2 2020",
+                        "value": 2.0873E12
+                    },
+                    {
+                        "date": "Q3 2020",
+                        "value": 2.765854E12
+                    },
+                    {
+                        "date": "Q4 2020",
+                        "value": 2.540471E12
+                    },
+                    {
+                        "date": "Q1 2021",
+                        "value": 2.840375E12
+                    },
+                    {
+                        "date": "Q2 2021",
+                        "value": 3.136193E12
+                    },
+                    {
+                        "date": "Q3 2021",
+                        "value": 3.165099E12
+                    },
+                    {
+                        "date": "Q4 2021",
+                        "value": 3.250366E12
+                    },
+                    {
+                        "date": "Q1 2022",
+                        "value": 3.172463E12
+                    },
+                    {
+                        "date": "Q2 2022",
+                        "value": 3.380648E12
+                    },
+                    {
+                        "date": "Q3 2022",
+                        "value": 3.477058E12
+                    },
+                    {
+                        "date": "Q4 2022",
+                        "value": 3.420234E12
+                    },
+                    {
+                        "date": "Q1 2023",
+                        "value": 3.524291E12
+                    },
+                    {
+                        "date": "Q2 2023",
+                        "value": 3.532548E12
+                    },
+                    {
+                        "date": "Q3 2023",
+                        "value": 3.648807E12
+                    },
+                    {
+                        "date": "Q4 2023",
+                        "value": 3.763658E12
+                    },
+                    {
+                        "date": "Q1 2024",
+                        "value": 3.68752E12
+                    },
+                    {
+                        "date": "Q2 2024",
+                        "value": 3.793125E12
+                    },
+                    {
+                        "date": "Q3 2024",
                         "value": 3.755734E12
                     },
                     {
-                        "date": "2024 Q4",
+                        "date": "Q4 2024",
                         "value": 3.970626E12
                     },
                     {
-                        "date": "2025 Q1",
+                        "date": "Q1 2025",
                         "value": 3.922871E12
                     },
                     {
-                        "date": "2025 Q2",
-                        "value": 3.929611E12
+                        "date": "Q2 2025",
+                        "value": 3.929661E12
                     },
                     {
-                        "date": "2025 Q3",
+                        "date": "Q3 2025",
                         "value": 4.095713E12
+                    }
+                ]
+            },
+            {
+                "id": "buffettCash",
+                "label": "Berkshire Hathaway Cash-to-Assets Ratio",
+                "value": "31.1%",
+                "change": "+2.7pp",
+                "trend": "up",
+                "icon": "wallet",
+                "description": "of total Berkshire Hathaway (Chairman and CEO Warren Buffett) assets last quarter were held in cash, cash equivalents, and short-term investments in US Treasury Bills. Change refers to the percentage point change from a year ago.",
+                "disclaimer": "The cash-to-assets ratio shows how much of Berkshire Hathaway's total value is held in liquid cash versus long-term investments. For Warren Buffett, this ratio reflects a choice between holding money in safe Treasury bills or buying stocks and companies. When market prices are extremely high (often during an economic bubble) this ratio typically rises because the company cannot find assets to buy at a fair price. Holding cash serves as a defensive strategy to avoid overpaying for overvalued assets. Conversely, when the ratio falls, it shows the company is spending its cash to acquire new assets. In the context of a bubble, a high ratio suggests the company is waiting for a market correction to buy at lower prices, while a low ratio suggests they believe current prices offer good value. Essentially, the ratio tracks whether the company is prioritizing safety or growth based on current market conditions.",
+                "dataSource": "https://www.berkshirehathaway.com/reports.html and other publically available information",
+                "historicalData": [
+                    {
+                        "date": "Q4 1995",
+                        "value": 9.4
+                    },
+                    {
+                        "date": "Q1 1996",
+                        "value": 4.1
+                    },
+                    {
+                        "date": "Q2 1996",
+                        "value": 2.3
+                    },
+                    {
+                        "date": "Q3 1996",
+                        "value": 2.1
+                    },
+                    {
+                        "date": "Q4 1996",
+                        "value": 3.1
+                    },
+                    {
+                        "date": "Q1 1997",
+                        "value": 2.5
+                    },
+                    {
+                        "date": "Q2 1997",
+                        "value": 2.1
+                    },
+                    {
+                        "date": "Q3 1997",
+                        "value": 1.1
+                    },
+                    {
+                        "date": "Q4 1997",
+                        "value": 1.8
+                    },
+                    {
+                        "date": "Q1 1998",
+                        "value": 1.7
+                    },
+                    {
+                        "date": "Q2 1998",
+                        "value": 11.1
+                    },
+                    {
+                        "date": "Q3 1998",
+                        "value": 12.8
+                    },
+                    {
+                        "date": "Q4 1998",
+                        "value": 11.1
+                    },
+                    {
+                        "date": "Q1 1999",
+                        "value": 11.5
+                    },
+                    {
+                        "date": "Q2 1999",
+                        "value": 3.4
+                    },
+                    {
+                        "date": "Q3 1999",
+                        "value": 3.8
+                    },
+                    {
+                        "date": "Q4 1999",
+                        "value": 2.9
+                    },
+                    {
+                        "date": "Q1 2000",
+                        "value": 2.2
+                    },
+                    {
+                        "date": "Q2 2000",
+                        "value": 1.4
+                    },
+                    {
+                        "date": "Q3 2000",
+                        "value": 2.2
+                    },
+                    {
+                        "date": "Q4 2000",
+                        "value": 3.9
+                    },
+                    {
+                        "date": "Q1 2001",
+                        "value": 4.0
+                    },
+                    {
+                        "date": "Q2 2001",
+                        "value": 4.8
+                    },
+                    {
+                        "date": "Q3 2001",
+                        "value": 3.2
+                    },
+                    {
+                        "date": "Q4 2001",
+                        "value": 4.0
+                    },
+                    {
+                        "date": "Q1 2002",
+                        "value": 4.5
+                    },
+                    {
+                        "date": "Q2 2002",
+                        "value": 4.4
+                    },
+                    {
+                        "date": "Q3 2002",
+                        "value": 6.3
+                    },
+                    {
+                        "date": "Q4 2002",
+                        "value": 7.5
+                    },
+                    {
+                        "date": "Q1 2003",
+                        "value": 11.5
+                    },
+                    {
+                        "date": "Q2 2003",
+                        "value": 16.5
+                    },
+                    {
+                        "date": "Q3 2003",
+                        "value": 17.9
+                    },
+                    {
+                        "date": "Q4 2003",
+                        "value": 19.9
+                    },
+                    {
+                        "date": "Q1 2004",
+                        "value": 19.4
+                    },
+                    {
+                        "date": "Q2 2004",
+                        "value": 19.8
+                    },
+                    {
+                        "date": "Q3 2004",
+                        "value": 23.7
+                    },
+                    {
+                        "date": "Q4 2004",
+                        "value": 23.0
+                    },
+                    {
+                        "date": "Q1 2005",
+                        "value": 24.5
+                    },
+                    {
+                        "date": "Q2 2005",
+                        "value": 24.6
+                    },
+                    {
+                        "date": "Q3 2005",
+                        "value": 23.4
+                    },
+                    {
+                        "date": "Q4 2005",
+                        "value": 22.5
+                    },
+                    {
+                        "date": "Q1 2006",
+                        "value": 18.7
+                    },
+                    {
+                        "date": "Q2 2006",
+                        "value": 18.1
+                    },
+                    {
+                        "date": "Q3 2006",
+                        "value": 17.6
+                    },
+                    {
+                        "date": "Q4 2006",
+                        "value": 17.6
+                    },
+                    {
+                        "date": "Q1 2007",
+                        "value": 17.6
+                    },
+                    {
+                        "date": "Q2 2007",
+                        "value": 17.5
+                    },
+                    {
+                        "date": "Q3 2007",
+                        "value": 17.1
+                    },
+                    {
+                        "date": "Q4 2007",
+                        "value": 16.3
+                    },
+                    {
+                        "date": "Q1 2008",
+                        "value": 12.7
+                    },
+                    {
+                        "date": "Q2 2008",
+                        "value": 11.3
+                    },
+                    {
+                        "date": "Q3 2008",
+                        "value": 11.9
+                    },
+                    {
+                        "date": "Q4 2008",
+                        "value": 9.6
+                    },
+                    {
+                        "date": "Q1 2009",
+                        "value": 9.8
+                    },
+                    {
+                        "date": "Q2 2009",
+                        "value": 8.9
+                    },
+                    {
+                        "date": "Q3 2009",
+                        "value": 9.2
+                    },
+                    {
+                        "date": "Q4 2009",
+                        "value": 10.3
+                    },
+                    {
+                        "date": "Q1 2010",
+                        "value": 7.2
+                    },
+                    {
+                        "date": "Q2 2010",
+                        "value": 8.0
+                    },
+                    {
+                        "date": "Q3 2010",
+                        "value": 9.5
+                    },
+                    {
+                        "date": "Q4 2010",
+                        "value": 10.3
+                    },
+                    {
+                        "date": "Q1 2011",
+                        "value": 11.0
+                    },
+                    {
+                        "date": "Q2 2011",
+                        "value": 12.5
+                    },
+                    {
+                        "date": "Q3 2011",
+                        "value": 9.0
+                    },
+                    {
+                        "date": "Q4 2011",
+                        "value": 9.5
+                    },
+                    {
+                        "date": "Q1 2012",
+                        "value": 9.2
+                    },
+                    {
+                        "date": "Q2 2012",
+                        "value": 9.9
+                    },
+                    {
+                        "date": "Q3 2012",
+                        "value": 11.3
+                    },
+                    {
+                        "date": "Q4 2012",
+                        "value": 11.0
+                    },
+                    {
+                        "date": "Q1 2013",
+                        "value": 11.1
+                    },
+                    {
+                        "date": "Q2 2013",
+                        "value": 8.0
+                    },
+                    {
+                        "date": "Q3 2013",
+                        "value": 9.2
+                    },
+                    {
+                        "date": "Q4 2013",
+                        "value": 9.9
+                    },
+                    {
+                        "date": "Q1 2014",
+                        "value": 9.9
+                    },
+                    {
+                        "date": "Q2 2014",
+                        "value": 11.0
+                    },
+                    {
+                        "date": "Q3 2014",
+                        "value": 12.1
+                    },
+                    {
+                        "date": "Q4 2014",
+                        "value": 12.1
+                    },
+                    {
+                        "date": "Q1 2015",
+                        "value": 12.0
+                    },
+                    {
+                        "date": "Q2 2015",
+                        "value": 12.3
+                    },
+                    {
+                        "date": "Q3 2015",
+                        "value": 12.2
+                    },
+                    {
+                        "date": "Q4 2015",
+                        "value": 13.0
+                    },
+                    {
+                        "date": "Q1 2016",
+                        "value": 10.0
+                    },
+                    {
+                        "date": "Q2 2016",
+                        "value": 12.3
+                    },
+                    {
+                        "date": "Q3 2016",
+                        "value": 14.0
+                    },
+                    {
+                        "date": "Q4 2016",
+                        "value": 13.9
+                    },
+                    {
+                        "date": "Q1 2017",
+                        "value": 14.8
+                    },
+                    {
+                        "date": "Q2 2017",
+                        "value": 15.0
+                    },
+                    {
+                        "date": "Q3 2017",
+                        "value": 16.0
+                    },
+                    {
+                        "date": "Q4 2017",
+                        "value": 16.5
+                    },
+                    {
+                        "date": "Q1 2018",
+                        "value": 15.5
+                    },
+                    {
+                        "date": "Q2 2018",
+                        "value": 15.6
+                    },
+                    {
+                        "date": "Q3 2018",
+                        "value": 14.1
+                    },
+                    {
+                        "date": "Q4 2018",
+                        "value": 15.8
+                    },
+                    {
+                        "date": "Q1 2019",
+                        "value": 15.5
+                    },
+                    {
+                        "date": "Q2 2019",
+                        "value": 16.1
+                    },
+                    {
+                        "date": "Q3 2019",
+                        "value": 16.3
+                    },
+                    {
+                        "date": "Q4 2019",
+                        "value": 15.7
+                    },
+                    {
+                        "date": "Q1 2020",
+                        "value": 18.1
+                    },
+                    {
+                        "date": "Q2 2020",
+                        "value": 18.6
+                    },
+                    {
+                        "date": "Q3 2020",
+                        "value": 17.6
+                    },
+                    {
+                        "date": "Q4 2020",
+                        "value": 15.9
+                    },
+                    {
+                        "date": "Q1 2021",
+                        "value": 16.5
+                    },
+                    {
+                        "date": "Q2 2021",
+                        "value": 15.8
+                    },
+                    {
+                        "date": "Q3 2021",
+                        "value": 16.2
+                    },
+                    {
+                        "date": "Q4 2021",
+                        "value": 15.3
+                    },
+                    {
+                        "date": "Q1 2022",
+                        "value": 11.0
+                    },
+                    {
+                        "date": "Q2 2022",
+                        "value": 11.6
+                    },
+                    {
+                        "date": "Q3 2022",
+                        "value": 12.1
+                    },
+                    {
+                        "date": "Q4 2022",
+                        "value": 13.6
+                    },
+                    {
+                        "date": "Q1 2023",
+                        "value": 13.1
+                    },
+                    {
+                        "date": "Q2 2023",
+                        "value": 14.2
+                    },
+                    {
+                        "date": "Q3 2023",
+                        "value": 15.5
+                    },
+                    {
+                        "date": "Q4 2023",
+                        "value": 15.7
+                    },
+                    {
+                        "date": "Q1 2024",
+                        "value": 17.7
+                    },
+                    {
+                        "date": "Q2 2024",
+                        "value": 25.0
+                    },
+                    {
+                        "date": "Q3 2024",
+                        "value": 28.4
+                    },
+                    {
+                        "date": "Q4 2024",
+                        "value": 29.0
+                    },
+                    {
+                        "date": "Q1 2025",
+                        "value": 29.9
+                    },
+                    {
+                        "date": "Q2 2025",
+                        "value": 29.6
+                    },
+                    {
+                        "date": "Q3 2025",
+                        "value": 31.1
                     }
                 ]
             }
