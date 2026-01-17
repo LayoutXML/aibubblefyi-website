@@ -1,7 +1,7 @@
 {
-    "lastUpdated": "2026-01-13T23:18:15.818269Z",
+    "lastUpdated": "2026-01-17T20:48:30.746242Z",
     "bubbleStatus": {
-        "percentageChange": "+19.3%",
+        "percentageChange": "+16.9%",
         "status": "HYPE IS GROWING",
         "subStatus": "Exceptional increase",
         "description": "Current metrics align with a period of sustained market optimism. Capital continues to flow into infrastructure, and valuations remain elevated relative to long-term historical averages.",
@@ -14,26 +14,26 @@
             {
                 "symbol": "NVDA",
                 "name": "NVIDIA Corporation",
-                "price": 185.81,
-                "change": 52.58000000000001,
-                "changePercent": 39.4655858290175,
-                "previousClose": 133.23
+                "price": 186.23,
+                "change": 52.66,
+                "changePercent": 39.42502058845549,
+                "previousClose": 133.57
             },
             {
                 "symbol": "MSFT",
                 "name": "Microsoft Corporation",
-                "price": 470.67,
-                "change": 53.48000000000002,
-                "changePercent": 12.819099211390498,
-                "previousClose": 417.19
+                "price": 459.86,
+                "change": 35.28000000000003,
+                "changePercent": 8.309388101182352,
+                "previousClose": 424.58
             },
             {
                 "symbol": "GOOGL",
                 "name": "Alphabet Inc.",
-                "price": 335.97,
-                "change": 144.96000000000004,
-                "changePercent": 75.89131459085914,
-                "previousClose": 191.01
+                "price": 330.0,
+                "change": 137.09,
+                "changePercent": 71.06422684153232,
+                "previousClose": 192.91
             },
             {
                 "symbol": "OPENAI",
@@ -51,52 +51,52 @@
             {
                 "symbol": "HYFT",
                 "name": "MindWalk Holdings Corp.",
-                "price": 2.44,
-                "change": 1.919,
-                "changePercent": 368.33013435700576,
-                "previousClose": 0.521
-            },
-            {
-                "symbol": "OSS",
-                "name": "One Stop Systems, Inc.",
-                "price": 11.3,
-                "change": 8.200000000000001,
-                "changePercent": 264.5161290322581,
-                "previousClose": 3.1
+                "price": 2.07,
+                "change": 1.5099999999999998,
+                "changePercent": 269.64285714285705,
+                "previousClose": 0.56
             },
             {
                 "symbol": "MU",
                 "name": "Micron Technology, Inc.",
-                "price": 338.13,
-                "change": 243.07,
-                "changePercent": 255.70166210814222,
-                "previousClose": 95.06
+                "price": 362.75,
+                "change": 260.15,
+                "changePercent": 253.55750487329436,
+                "previousClose": 102.6
+            },
+            {
+                "symbol": "OSS",
+                "name": "One Stop Systems, Inc.",
+                "price": 10.66,
+                "change": 7.050000000000001,
+                "changePercent": 195.2908587257618,
+                "previousClose": 3.61
             }
         ],
         "losers": [
             {
                 "symbol": "VERS.NE",
                 "name": "VERSES AI INC. SUBORDINATE VOTI",
-                "price": 2.08,
-                "change": -44.63,
-                "changePercent": -95.54699207878399,
-                "previousClose": 46.71
-            },
-            {
-                "symbol": "KITT",
-                "name": "Nauticus Robotics, Inc.",
-                "price": 0.89,
-                "change": -17.74,
-                "changePercent": -95.22275899087494,
-                "previousClose": 18.63
+                "price": 1.45,
+                "change": -54.98,
+                "changePercent": -97.43044479886585,
+                "previousClose": 56.43
             },
             {
                 "symbol": "ORKT",
                 "name": "Orangekloud Technology Inc.",
-                "price": 0.7868,
-                "change": -12.3332,
-                "changePercent": -94.0030487804878,
-                "previousClose": 13.12
+                "price": 0.717,
+                "change": -15.362999999999998,
+                "changePercent": -95.5410447761194,
+                "previousClose": 16.08
+            },
+            {
+                "symbol": "KITT",
+                "name": "Nauticus Robotics, Inc.",
+                "price": 1.05,
+                "change": -18.93,
+                "changePercent": -94.74474474474475,
+                "previousClose": 19.98
             }
         ],
         "comparedTo": "a year ago"
