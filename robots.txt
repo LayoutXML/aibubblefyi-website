@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /support
+
+Sitemap: https://aibubble.fyi/sitemap.xml
