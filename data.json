@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-01-17T20:48:30.746242Z",
+    "lastUpdated": "2026-01-18T19:14:58.020316Z",
     "bubbleStatus": {
         "percentageChange": "+16.9%",
         "status": "HYPE IS GROWING",
         "subStatus": "Exceptional increase",
-        "description": "Current metrics align with a period of sustained market optimism. Capital continues to flow into infrastructure, and valuations remain elevated relative to long-term historical averages.",
+        "description": "Current metrics indicate sustained market optimism. Capital continues flowing into AI infrastructure, and valuations remain elevated compared to long-term historical averages.",
         "color": "green",
         "tracking": "S&P 500",
         "comparedTo": "a year ago"
@@ -14,9 +14,9 @@
             {
                 "symbol": "NVDA",
                 "name": "NVIDIA Corporation",
-                "price": 186.23,
-                "change": 52.66,
-                "changePercent": 39.42502058845549,
+                "price": 186.105,
+                "change": 52.535,
+                "changePercent": 39.331436699857754,
                 "previousClose": 133.57
             },
             {
@@ -180,7 +180,8 @@
             "date": "Jan 2026",
             "change": "+3.23",
             "trend": "up",
-            "description": "Indicates that the market is considered highly overvalued from a long-term historical perspective. This value is more than double the historical average. Change refers to the absolute change from a year ago.",
+            "description": "indicates the market is highly overvalued from a historical perspective - more than double the long-term average. Change shows the absolute difference from a year ago.",
+            "explanation": "Higher values typically indicate greater market overvaluation. A rising trend may suggest growing speculative excess.",
             "dataSource": "https://www.multpl.com/shiller-pe and other sources",
             "historicalData": [
                 {
@@ -1925,8 +1926,9 @@
                 "change": "+134%",
                 "trend": "up",
                 "icon": "memoryStick",
-                "description": "average consumer price for DDR4 16GB kit (2x8GB) 3200 RAM. Change refers to the percentage change from a year ago.",
-                "disclaimer": "Current average consumer price of DDR4 16GB kit (2x8GB) 3200 RAM.",
+                "description": "average consumer price for DDR4 16GB (2x8GB) 3200MHz RAM. Change shows the percentage difference from a year ago.",
+                "disclaimer": "RAM prices serve as a proxy for AI infrastructure demand. As AI workloads require substantial memory capacity, rising RAM prices can indicate increased competition for computing resources driven by AI development and deployment.",
+                "explanation": "Rising prices can signal increased AI infrastructure demand. Sharp or sustained increases may reflect speculative overinvestment.",
                 "dataSource": "",
                 "historicalData": [
                     {
@@ -1990,8 +1992,9 @@
                 "change": "-6,138",
                 "trend": "down",
                 "icon": "briefcase",
-                "description": "jobs cut in the US last month due to AI according to Challenger, Gray & Christmas's Year-End report. Last year, the total number of job cuts due to AI was 54,836. Change refers to the absolute change from a month ago.",
-                "disclaimer": "Monthly number of jobs cut where Artificial Intelligence (AI) was cited as the reason.",
+                "description": "jobs cut in the US last month due to AI, according to Challenger, Gray & Christmas. In 2025, total AI-related job cuts reached 54,836. Change shows the difference from the previous month.",
+                "disclaimer": "This metric tracks monthly U.S. job cuts where companies explicitly cited AI as the reason. While AI adoption can improve productivity, rising job displacement may signal economic disruption or companies over-investing in automation during a hype cycle.",
+                "explanation": "Accelerating job cuts can indicate aggressive AI adoption. Rapid increases may suggest companies are over-investing in automation during a hype cycle.",
                 "dataSource": "Challenger, Gray & Christmas. https://www.challengergray.com/blog/ https://www.challengergray.com/blog/2025-year-end-challenger-report-highest-q4-layoffs-since-2008-lowest-ytd-hiring-since-2010/",
                 "historicalData": [
                     {
@@ -2035,8 +2038,9 @@
                 "change": "+25.5%",
                 "trend": "up",
                 "icon": "landmark",
-                "description": "in global corporate AI investment last year, according to Stanford University's Artificial Intelligence Report 2025.",
-                "disclaimer": "Trend in global corporate AI investment including mergers and acquisitions, minority stakes, private investments, and public offerings.",
+                "description": "in global corporate AI investment last year, according to Stanford University's AI Index Report 2025.",
+                "disclaimer": "This tracks total global corporate AI investment, including mergers and acquisitions, minority stakes, private investments, and public offerings. Rapid growth in AI investment can indicate genuine innovation or speculative excess, depending on whether returns materialize.",
+                "explanation": "Rapid growth can reflect either genuine innovation or speculative excess. Unsustainable acceleration may signal bubble formation.",
                 "dataSource": "Artificial Intelligence Index Report 2025. https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf",
                 "historicalData": [
                     {
@@ -2096,8 +2100,9 @@
                 "change": "-0.07pp",
                 "trend": "down",
                 "icon": "chartPie",
-                "description": "of S&P 500 is made up of the Mag 7 companies in the S&P 500 - Apple, Microsoft, Alphabet, Amazon, Nvidia, Meta, and Tesla. Change refers to the percentage point change from a year ago.",
-                "disclaimer": "The Magnificent Seven was coined by Michael Hartnett of Bank of America in 2023 to describe the handful of tech giants driving the market's recovery. Historically, it replaced the FAANG era, reflecting a shift where companies like Nvidia and Microsoft became more influential than former leaders like Netflix. Stock market concentration occurs when these few names represent a disproportionate share of an index, meaning the broader market's health is increasingly tied to the success of just seven firms rather than the hundreds of others.",
+                "description": "of the S&P 500's total market capitalization is concentrated in the Magnificent 7 companies: Apple, Microsoft, Alphabet, Amazon, Nvidia, Meta, and Tesla. Change shows the percentage point difference from a year ago.",
+                "disclaimer": "The 'Magnificent Seven' term was coined by Bank of America's Michael Hartnett in 2023 to describe the tech giants driving market performance. This metric measures market concentration - when a small number of companies represent a disproportionate share of the index. High concentration means the broader market's health depends heavily on just seven firms rather than hundreds of others, increasing systemic risk if these companies underperform.",
+                "explanation": "Higher concentration increases systemic risk and market vulnerability. Extreme levels have historically preceded corrections.",
                 "dataSource": "Calculated from data available at https://www.slickcharts.com/sp500 and https://www.fool.com/research/magnificent-seven-sp-500/",
                 "historicalData": [
                     {
@@ -2153,8 +2158,9 @@
                 "change": "+9.05%",
                 "trend": "up",
                 "icon": "dollarSign",
-                "description": "in corporate profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj). Change refers to the percentage change from a year ago.",
-                "disclaimer": "Corporate Profits with IVA and CCAdj represents \"profits from current production\" stripping away the distorting \"paper gains\" caused by inflation and inconsistent tax accounting. By adjusting for the actual replacement cost of inventory (IVA) and the real-world wear-and-tear of equipment (CCAdj), this metric reveals the true productivity and health of the corporate sector. For the stock market, this serves as a reality check: while reported earnings-per-share can be inflated by stock buybacks or accounting tricks, this adjusted figure tracks the fundamental ability of firms to generate value. When these \"economic\" profits stagnate while stock prices continue to climb, it often signals that the market is overextended and overdue for a correction.",
+                "description": "in corporate profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj). Change shows the percentage difference from a year ago.",
+                "disclaimer": "This metric represents 'profits from current production' by removing distortions from inflation and accounting practices. IVA adjusts for the actual replacement cost of inventory, while CCAdj accounts for real equipment depreciation. This reveals the true health of corporate earnings. Unlike reported earnings-per-share (which can be inflated by buybacks or accounting methods), this tracks companies' fundamental ability to generate value. When these adjusted profits stagnate while stock prices rise, it often signals market overvaluation.",
+                "explanation": "Stagnant or declining profits alongside rising stock prices can indicate overvaluation and disconnection from fundamentals.",
                 "dataSource": "U.S. Bureau of Economic Analysis, Corporate Profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj) [CPROFIT], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CPROFIT",
                 "historicalData": [
                     {
@@ -2330,8 +2336,9 @@
                 "change": "+2.7pp",
                 "trend": "up",
                 "icon": "wallet",
-                "description": "of total Berkshire Hathaway (Chairman and CEO Warren Buffett) assets last quarter were held in cash, cash equivalents, and short-term investments in US Treasury Bills. Change refers to the percentage point change from a year ago.",
-                "disclaimer": "The cash-to-assets ratio shows how much of Berkshire Hathaway's total value is held in liquid cash versus long-term investments. For Warren Buffett, this ratio reflects a choice between holding money in safe Treasury bills or buying stocks and companies. When market prices are extremely high (often during an economic bubble) this ratio typically rises because the company cannot find assets to buy at a fair price. Holding cash serves as a defensive strategy to avoid overpaying for overvalued assets. Conversely, when the ratio falls, it shows the company is spending its cash to acquire new assets. In the context of a bubble, a high ratio suggests the company is waiting for a market correction to buy at lower prices, while a low ratio suggests they believe current prices offer good value. Essentially, the ratio tracks whether the company is prioritizing safety or growth based on current market conditions.",
+                "description": "of Berkshire Hathaway's total assets last quarter were held in cash, cash equivalents, and short-term U.S. Treasury Bills. Change shows the percentage point difference from a year ago.",
+                "disclaimer": "This ratio shows what portion of Berkshire Hathaway's assets Warren Buffett holds in cash versus investments. A rising ratio typically indicates Buffett finds few attractively priced opportunities - often a sign of overvalued markets or bubble conditions. High cash levels serve as a defensive strategy, preserving capital to deploy when prices correct. Conversely, a falling ratio suggests active deployment of cash into investments Buffett considers fairly valued. Essentially, this tracks whether one of history's most successful investors is prioritizing safety or growth opportunities.",
+                "explanation": "A rising ratio can suggest limited attractive investment opportunities. High levels may indicate defensive positioning amid perceived overvaluation.",
                 "dataSource": "https://www.berkshirehathaway.com/reports.html and other publically available information",
                 "historicalData": [
                     {
