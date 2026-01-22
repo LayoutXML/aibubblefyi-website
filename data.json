@@ -1,7 +1,7 @@
 {
-    "lastUpdated": "2026-01-20T20:26:37.118030Z",
+    "lastUpdated": "2026-01-22T08:52:18.733113Z",
     "bubbleStatus": {
-        "percentageChange": "+13.3%",
+        "percentageChange": "+13.7%",
         "status": "HYPE IS GROWING",
         "subStatus": "Moderate increase",
         "description": "Current metrics indicate sustained market optimism. Capital continues flowing into AI infrastructure, and valuations remain elevated compared to long-term historical averages.",
@@ -14,26 +14,26 @@
             {
                 "symbol": "NVDA",
                 "name": "NVIDIA Corporation",
-                "price": 178.545,
-                "change": 40.83499999999998,
-                "changePercent": 29.652893762253996,
-                "previousClose": 137.71
+                "price": 183.32,
+                "change": 42.48999999999998,
+                "changePercent": 30.171128310729234,
+                "previousClose": 140.83
             },
             {
                 "symbol": "MSFT",
                 "name": "Microsoft Corporation",
-                "price": 454.47,
-                "change": 25.440000000000055,
-                "changePercent": 5.929655268862331,
-                "previousClose": 429.03
+                "price": 444.11,
+                "change": 15.610000000000014,
+                "changePercent": 3.6429404900816835,
+                "previousClose": 428.5
             },
             {
                 "symbol": "GOOGL",
                 "name": "Alphabet Inc.",
-                "price": 321.96,
-                "change": 125.95999999999998,
-                "changePercent": 64.26530612244898,
-                "previousClose": 196.0
+                "price": 328.38,
+                "change": 130.32999999999998,
+                "changePercent": 65.80661449129008,
+                "previousClose": 198.05
             },
             {
                 "symbol": "OPENAI",
@@ -51,52 +51,52 @@
             {
                 "symbol": "HYFT",
                 "name": "MindWalk Holdings Corp.",
-                "price": 1.97,
-                "change": 1.44,
-                "changePercent": 271.6981132075472,
-                "previousClose": 0.53
+                "price": 2.03,
+                "change": 1.537,
+                "changePercent": 311.7647058823529,
+                "previousClose": 0.493
             },
             {
                 "symbol": "MU",
                 "name": "Micron Technology, Inc.",
-                "price": 366.225,
-                "change": 260.475,
-                "changePercent": 246.31205673758868,
-                "previousClose": 105.75
+                "price": 389.11,
+                "change": 279.73,
+                "changePercent": 255.74145181934546,
+                "previousClose": 109.38
             },
             {
                 "symbol": "OSS",
                 "name": "One Stop Systems, Inc.",
-                "price": 10.96,
-                "change": 6.870000000000001,
-                "changePercent": 167.9706601466993,
-                "previousClose": 4.09
+                "price": 11.67,
+                "change": 7.37,
+                "changePercent": 171.3953488372093,
+                "previousClose": 4.3
             }
         ],
         "losers": [
             {
                 "symbol": "VERS.NE",
                 "name": "VERSES AI INC. SUBORDINATE VOTI",
-                "price": 1.6,
-                "change": -55.1,
-                "changePercent": -97.17813051146385,
-                "previousClose": 56.7
+                "price": 1.3,
+                "change": -45.95,
+                "changePercent": -97.24867724867725,
+                "previousClose": 47.25
             },
             {
                 "symbol": "KITT",
                 "name": "Nauticus Robotics, Inc.",
-                "price": 0.915,
-                "change": -19.425,
-                "changePercent": -95.50147492625369,
-                "previousClose": 20.34
+                "price": 0.91,
+                "change": -18.26,
+                "changePercent": -95.25299947835158,
+                "previousClose": 19.17
             },
             {
                 "symbol": "AIXI",
                 "name": "XIAO-I Corporation",
-                "price": 0.3448,
-                "change": -5.505199999999999,
-                "changePercent": -94.1059829059829,
-                "previousClose": 5.85
+                "price": 0.3215,
+                "change": -5.2684999999999995,
+                "changePercent": -94.24865831842575,
+                "previousClose": 5.59
             }
         ],
         "comparedTo": "a year ago"
