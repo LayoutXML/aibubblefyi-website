@@ -1,9 +1,9 @@
 {
-    "lastUpdated": "2026-01-29T23:06:46.495912Z",
+    "lastUpdated": "2026-02-01T14:40:49.943591Z",
     "bubbleStatus": {
-        "percentageChange": "+15.4%",
+        "percentageChange": "+14.3%",
         "status": "HYPE IS GROWING",
-        "subStatus": "Strong increase",
+        "subStatus": "Moderate increase",
         "description": "Current metrics indicate sustained market optimism. Capital continues flowing into AI infrastructure, and valuations remain elevated compared to long-term historical averages.",
         "color": "green",
         "tracking": "S&P 500",
@@ -14,26 +14,26 @@
             {
                 "symbol": "NVDA",
                 "name": "NVIDIA Corporation",
-                "price": 192.51,
-                "change": 68.80999999999999,
-                "changePercent": 55.626515763945015,
-                "previousClose": 123.7
+                "price": 191.13,
+                "change": 66.47999999999999,
+                "changePercent": 53.33333333333332,
+                "previousClose": 124.65
             },
             {
                 "symbol": "MSFT",
                 "name": "Microsoft Corporation",
-                "price": 433.5,
-                "change": -8.829999999999984,
-                "changePercent": -1.9962471457961217,
-                "previousClose": 442.33
+                "price": 430.29,
+                "change": 15.300000000000011,
+                "changePercent": 3.686835827369337,
+                "previousClose": 414.99
             },
             {
                 "symbol": "GOOGL",
                 "name": "Alphabet Inc.",
-                "price": 338.25,
-                "change": 142.84,
-                "changePercent": 73.09758968323014,
-                "previousClose": 195.41
+                "price": 338.0,
+                "change": 137.13,
+                "changePercent": 68.26803405187434,
+                "previousClose": 200.87
             },
             {
                 "symbol": "OPENAI",
@@ -51,52 +51,52 @@
             {
                 "symbol": "MU",
                 "name": "Micron Technology, Inc.",
-                "price": 435.79,
-                "change": 346.78000000000003,
-                "changePercent": 389.5966745309516,
-                "previousClose": 89.01
+                "price": 414.88,
+                "change": 322.38,
+                "changePercent": 348.5189189189189,
+                "previousClose": 92.5
             },
             {
                 "symbol": "HYFT",
                 "name": "MindWalk Holdings Corp.",
-                "price": 1.8,
-                "change": 1.34,
-                "changePercent": 291.30434782608694,
-                "previousClose": 0.46
+                "price": 1.62,
+                "change": 1.1680000000000001,
+                "changePercent": 258.40707964601773,
+                "previousClose": 0.452
             },
             {
                 "symbol": "OSS",
                 "name": "One Stop Systems, Inc.",
-                "price": 10.62,
-                "change": 7.169999999999999,
-                "changePercent": 207.8260869565217,
-                "previousClose": 3.45
+                "price": 9.89,
+                "change": 6.33,
+                "changePercent": 177.80898876404493,
+                "previousClose": 3.56
             }
         ],
         "losers": [
             {
                 "symbol": "VERS.NE",
                 "name": "VERSES AI INC. SUBORDINATE VOTI",
-                "price": 0.9,
-                "change": -37.71,
-                "changePercent": -97.66899766899768,
-                "previousClose": 38.61
+                "price": 0.85,
+                "change": -38.839999999999996,
+                "changePercent": -97.85840262030739,
+                "previousClose": 39.69
             },
             {
                 "symbol": "FRGT",
                 "name": "Freight Technologies, Inc.",
-                "price": 1.27,
-                "change": -26.53,
-                "changePercent": -95.43165467625899,
-                "previousClose": 27.8
+                "price": 1.25,
+                "change": -26.95,
+                "changePercent": -95.56737588652481,
+                "previousClose": 28.2
             },
             {
-                "symbol": "AIXI",
-                "name": "XIAO-I Corporation",
-                "price": 0.207,
-                "change": -4.093,
-                "changePercent": -95.18604651162791,
-                "previousClose": 4.3
+                "symbol": "ARAI",
+                "name": "Arrive AI Inc.",
+                "price": 1.86,
+                "change": -38.14,
+                "changePercent": -95.35,
+                "previousClose": 40.0
             }
         ],
         "comparedTo": "a year ago"
@@ -134,8 +134,8 @@
                     {
                         "id": "shillerPE",
                         "label": "Shiller P/E Ratio",
-                        "value": "40.37",
-                        "change": "+3.23",
+                        "value": "40.81",
+                        "change": "+3.62",
                         "trend": "up",
                         "description": "indicates the market is highly overvalued from a historical perspective - more than double the long-term average. Change shows the absolute difference from a year ago.",
                         "explanation": "Higher values typically indicate greater market overvaluation. A rising trend may suggest growing speculative excess.",
@@ -1872,6 +1872,10 @@
                             {
                                 "date": "Jan 2026",
                                 "value": 40.37
+                            },
+                            {
+                                "date": "Feb 2026",
+                                "value": 40.81
                             }
                         ]
                     },
@@ -2125,9 +2129,9 @@
                     {
                         "id": "mag7",
                         "label": "Magnificent 7",
-                        "value": "34.29%",
-                        "change": "-0.07pp",
-                        "trend": "down",
+                        "value": "34.54%",
+                        "change": "+0.18pp",
+                        "trend": "up",
                         "icon": "chartPie",
                         "description": "of the S&P 500's total market capitalization is concentrated in the Magnificent 7 companies: Apple, Microsoft, Alphabet, Amazon, Nvidia, Meta, and Tesla. Change shows the percentage point difference from a year ago.",
                         "disclaimer": "The 'Magnificent Seven' term was coined by Bank of America's Michael Hartnett in 2023 to describe the tech giants driving market performance. This metric measures market concentration - when a small number of companies represent a disproportionate share of the index. High concentration means the broader market's health depends heavily on just seven firms rather than hundreds of others, increasing systemic risk if these companies underperform.",
@@ -2190,8 +2194,8 @@
                     {
                         "id": "ramPrices",
                         "label": "RAM Prices",
-                        "value": "~$117",
-                        "change": "+134%",
+                        "value": "~$152",
+                        "change": "+204%",
                         "trend": "up",
                         "icon": "memoryStick",
                         "description": "average consumer price for DDR4 16GB (2x8GB) 3200MHz RAM. Change shows the percentage difference from a year ago.",
@@ -2250,6 +2254,10 @@
                             {
                                 "date": "Jan 26",
                                 "value": 117.0
+                            },
+                            {
+                                "date": "Feb 26",
+                                "value": 152.0
                             }
                         ]
                     },
@@ -2806,7 +2814,25 @@
     },
     "sentimentPoll": {
         "trend": "neutral",
-        "pollHistory": []
+        "pollHistory": [
+            {
+                "period": "2026-01",
+                "results": [
+                    {
+                        "option_id": "yes",
+                        "votes": 63
+                    },
+                    {
+                        "option_id": "maybe",
+                        "votes": 12
+                    },
+                    {
+                        "option_id": "no",
+                        "votes": 25
+                    }
+                ]
+            }
+        ]
     },
     "interestingFacts": [
         {
@@ -2814,96 +2840,84 @@
             "description": "AI related stocks accounted for 75% of S&P500 returns, 80% of earnings growth and 90% of capital spending growth, since ChatGPT launched in November 2022",
             "source": "Michael Cembalest, J.P. Morgan",
             "url": "https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/the-blob-amv.pdf",
-            "date": "September 24, 2025",
-            "color": "rose"
+            "date": "September 24, 2025"
         },
         {
             "label": "AI Spending",
             "description": "Worldwide spending on AI is forecast to total $2.52 trillion in 2026, a 44% increase year-over-year",
             "source": "Gartner, Inc. a business and technology insights company",
             "url": "https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026",
-            "date": "January 15, 2026",
-            "color": "sky"
+            "date": "January 15, 2026"
         },
         {
             "label": "GDP & Data Centers",
             "description": "Without data centers, GDP growth was 0.1% in the first half of 2025",
             "source": "Harvard economist Jason Furman",
             "url": "https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/",
-            "date": "October 7, 2025",
-            "color": "amber"
+            "date": "October 7, 2025"
         },
         {
             "label": "AI Bubble (investors)",
             "description": "BofA’s survey shows 54% of investors say AI in bubble, 60% say stocks overvalued",
             "source": "Bank of America",
             "url": "https://www.investing.com/news/stock-market-news/bofas-survey-shows-54-of-investors-say-ai-in-bubble-60-say-stocks-overvalued-4284842",
-            "date": "October 14, 2025",
-            "color": "rose"
+            "date": "October 14, 2025"
         },
         {
             "label": "AI Bubble (Sam Altman)",
             "description": "\"OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble\"",
             "source": "CNBC, The Verge",
             "url": "https://www.cnbc.com/2025/08/18/openai-sam-altman-warns-ai-market-is-in-a-bubble.html",
-            "date": "August 18, 2025",
-            "color": "sky"
+            "date": "August 18, 2025"
         },
         {
             "label": "Data Center Investment",
             "description": "By 2030, data centers are projected to require $6.7 trillion worldwide to keep pace with the demand for compute power. Data centers equipped to handle AI processing loads are projected to require $5.2 trillion in capital expenditures",
             "source": "McKinsey & Company",
             "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers",
-            "date": "April 28, 2025",
-            "color": "amber"
+            "date": "April 28, 2025"
         },
         {
             "label": "Computing Power Needs",
             "description": "$2 trillion in annual revenue is needed to fund computing power needed to meet anticipated AI demand by 2030",
             "source": "Bain & Company",
             "url": "https://www.bain.com/about/media-center/press-releases/20252/$2-trillion-in-new-revenue-needed-to-fund-ais-scaling-trend---bain--companys-6th-annual-global-technology-report/",
-            "date": "September 23, 2025",
-            "color": "rose"
+            "date": "September 23, 2025"
         },
         {
             "label": "AI Spending",
             "description": "35-36 companies are currently responsible for 99% of token spending in AI",
             "source": "Groq CEO",
             "url": "https://www.uncoveralpha.com/p/too-much-ai-too-soon",
-            "date": "October 9, 2025",
-            "color": "sky"
+            "date": "October 9, 2025"
         },
         {
             "label": "Nvidia GPUs",
             "description": "OpenAI and Anthropic are the end buyers of 1/3 of all Nvidia GPUs",
             "source": "Dylan Patel, Semianalysis",
             "url": "https://www.uncoveralpha.com/p/too-much-ai-too-soon",
-            "date": "October 9, 2025",
-            "color": "amber"
+            "date": "October 9, 2025"
         },
         {
             "label": "Nvidia Revenue",
             "description": "Nvidia's top two mystery customers made up 39% of the chipmaker's Q2 revenue",
             "source": "CNBC",
             "url": "https://www.cnbc.com/2025/08/28/nvidias-top-two-mystery-customers-made-up-39percent-of-its-q2-revenue-.html",
-            "date": "August 28, 2025",
-            "color": "rose"
+            "date": "August 28, 2025"
         },
         {
             "label": "Cash Flow",
             "description": "S&P 500 companies are generating three times the cash flow as a share of their valuations as they were in the lead-up to the dot-com bubble bursting in 2000",
             "source": "Morgan Stanley, Morning Brew",
             "url": "https://www.morningbrew.com/stories/2025/10/10/is-there-an-ai-bubble-or-not",
-            "date": "October 10, 2025",
-            "color": "sky"
+            "date": "October 10, 2025"
         },
         {
             "label": "OpenAI Revenue",
             "description": "OpenAI should top $20 billion in annualized revenue in 2025, hundreds of billions by 2030",
             "source": "Sam Altman, CNBC",
             "url": "https://www.cnbc.com/2025/11/06/sam-altman-says-openai-will-top-20-billion-annual-revenue-this-year.html",
-            "date": "November 6, 2025",
-            "color": "amber"
+            "date": "November 6, 2025"
         }
     ]
 }
