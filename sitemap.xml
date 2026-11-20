@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://aibubble.fyi/</loc>
-        <lastmod>2026-10-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
+    <url><loc>https://aibubble.fyi/</loc><lastmod>2026-11-20</lastmod><changefreq>quarterly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://aibubble.fyi/?edition=2026-q3</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+    <url><loc>https://aibubble.fyi/?edition=2026-q2</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+    <url><loc>https://aibubble.fyi/?edition=2026-q1</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+    <url><loc>https://aibubble.fyi/?edition=2025-q4</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+    <url><loc>https://aibubble.fyi/privacy</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
 </urlset>
